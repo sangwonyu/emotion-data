@@ -1,0 +1,30 @@
+[
+  {
+    "type": "advice",
+    "emoji": "💭",
+    "label": "감정 조언",
+    "description": "심리학 연구 기반 감정 다루기 팁",
+    "count": 10
+  },
+  {
+    "type": "motivation",
+    "emoji": "🔥",
+    "label": "동기부여",
+    "description": "자기결정이론·성장마인드셋 기반 격려",
+    "count": 10
+  },
+  {
+    "type": "vitality",
+    "emoji": "🌿",
+    "label": "일상 활력",
+    "description": "확장-구축 이론 기반 마이크로 활동 제안",
+    "count": 10
+  },
+  {
+    "type": "knowledge",
+    "emoji": "💡",
+    "label": "감정 지식",
+    "description": "알고 계셨나요? 형식의 감정 과학 지식",
+    "count": 10
+  }
+]
