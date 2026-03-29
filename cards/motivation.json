@@ -3,60 +3,70 @@
     "id": "mot-001",
     "text": "완벽하지 않아도 시작할 수 있어요",
     "detail": "능력은 타고난 것이 아니라 노력으로 성장할 수 있습니다. 오늘의 작은 시도가 내일의 나를 만들어요.",
-    "source": "성장 마인드셋, Dweck, 2006"
+    "source": "성장 마인드셋, Dweck, 2006",
+    "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&q=80"
   },
   {
     "id": "mot-002",
     "text": "\"해야 하니까\"를 \"하고 싶어서\"로",
     "detail": "스스로 선택했다고 느끼는 것만으로도 같은 일에 대한 에너지가 달라집니다.",
-    "source": "자기결정이론, Deci & Ryan, 2000"
+    "source": "자기결정이론, Deci & Ryan, 2000",
+    "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80"
   },
   {
     "id": "mot-003",
     "text": "5분만 해보기로 시작하세요",
     "detail": "오늘의 목표가 크게 느껴진다면, 가장 작은 한 단계로 쪼개보세요. 시작하는 것 자체가 동기를 만들어냅니다.",
-    "source": "행동 활성화 원리"
+    "source": "행동 활성화 원리",
+    "image": "https://images.unsplash.com/photo-1490682143684-14369e18dce8?w=800&q=80"
   },
   {
     "id": "mot-004",
     "text": "어제보다 1%만 나아지면 됩니다",
     "detail": "작은 진전을 알아차리는 사람이 더 오래 동기를 유지한다는 연구 결과가 있어요. 오늘의 작은 성취를 스스로에게 인정해주세요.",
-    "source": "진전의 원칙, Amabile & Kramer, 2011"
+    "source": "진전의 원칙, Amabile & Kramer, 2011",
+    "image": "https://images.unsplash.com/photo-1504567961542-e24d9439a724?w=800&q=80"
   },
   {
     "id": "mot-005",
     "text": "실패는 아직 배우는 중이라는 뜻이에요",
     "detail": "\"아직\"이라는 단어 하나가 관점을 바꿔줍니다. 실패가 두려울 때, 지금은 성장하는 과정이라고 생각해보세요.",
-    "source": "성장 마인드셋의 'yet' 개념, Dweck"
+    "source": "성장 마인드셋의 'yet' 개념, Dweck",
+    "image": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=800&q=80"
   },
   {
     "id": "mot-006",
     "text": "의욕이 없는 날에도 괜찮아요",
     "detail": "동기는 항상 행동 전에 오는 것이 아니라, 작은 행동을 시작한 후에 따라오기도 합니다. 우선 몸을 움직여보세요.",
-    "source": "행동-동기 순환, 행동활성화 치료 연구"
+    "source": "행동-동기 순환, 행동활성화 치료 연구",
+    "image": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=800&q=80"
   },
   {
     "id": "mot-007",
     "text": "이루고 싶은 모습을 떠올려보세요",
     "detail": "목표를 생생하게 상상하는 것은 실제로 그 목표를 향해 나아가게 하는 힘이 됩니다.",
-    "source": "심상 훈련의 동기 효과, 스포츠 심리학 연구"
+    "source": "심상 훈련의 동기 효과, 스포츠 심리학 연구",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80"
   },
   {
     "id": "mot-008",
     "text": "비교는 동기를 빼앗는 가장 빠른 방법이에요",
     "detail": "오늘은 다른 사람이 아닌, 어제의 나와만 비교해보세요. 나만의 속도가 가장 좋은 속도입니다.",
-    "source": "사회비교이론, Festinger, 1954"
+    "source": "사회비교이론, Festinger, 1954",
+    "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800&q=80"
   },
   {
     "id": "mot-009",
     "text": "스스로에게 \"잘하고 있어\"라고 말해주세요",
     "detail": "자기 격려는 실제로 자기효능감을 높여줍니다. 누군가에게 듣지 못해도, 스스로에게 해줄 수 있어요.",
-    "source": "자기효능감의 언어적 설득 원천, Bandura, 1977"
+    "source": "자기효능감의 언어적 설득 원천, Bandura, 1977",
+    "image": "https://images.unsplash.com/photo-1418065460487-3e41a6c84dc5?w=800&q=80"
   },
   {
     "id": "mot-010",
     "text": "지금 하는 일이 왜 중요한지 한 문장으로 적어보세요",
     "detail": "의미를 찾은 사람은 같은 어려움 앞에서도 더 오래 버틸 수 있습니다.",
-    "source": "삶의 의미와 회복탄력성 연구"
+    "source": "삶의 의미와 회복탄력성 연구",
+    "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=800&q=80"
   }
 ]
