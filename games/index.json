@@ -6,6 +6,105 @@
     "duration": "5분",
     "questionCount": 6,
     "exp": 40,
-    "release_date": "2026-03-25"
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "how-i-grow",
+    "name": "나는 어떻게 성장하는가",
+    "emoji": "🌱",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "my-empathy-style",
+    "name": "나의 공감 스타일",
+    "emoji": "🤝",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "my-attachment-pattern",
+    "name": "나의 관계 패턴",
+    "emoji": "💞",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "what-drives-me",
+    "name": "나를 움직이는 것",
+    "emoji": "🔥",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "my-stress-response",
+    "name": "스트레스가 올 때 나는",
+    "emoji": "🌪️",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "how-i-decide",
+    "name": "나는 어떻게 결정하는가",
+    "emoji": "⚖️",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "my-flow-trigger",
+    "name": "나를 몰입하게 하는 것",
+    "emoji": "🎯",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "my-comfort-style",
+    "name": "나를 위로하는 방법",
+    "emoji": "🫂",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "my-anger-pattern",
+    "name": "화가 났을 때 나는",
+    "emoji": "🔥",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "my-personality-color",
+    "name": "나의 성격 색깔",
+    "emoji": "🎨",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "my-resilience-source",
+    "name": "내가 다시 일어서는 힘",
+    "emoji": "🌈",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-03-29"
   }
 ]

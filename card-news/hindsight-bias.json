@@ -1,0 +1,50 @@
+{
+  "id": "hindsight-bias",
+  "title": "사후 확신 편향의 함정",
+  "subtitle": "나는 처음부터 알고 있었다는 착각",
+  "category": "everyday_psychology",
+  "cards": [
+    {
+      "id": "card1",
+      "title": "'그럴 줄 알았어'의 심리학 🪞",
+      "body": "어떤 일이 일어난 후 '나는 그럴 줄 알았어'라고 말한 적 있으신가요? 사후 확신 편향은 결과를 알게 된 후, 마치 처음부터 그 결과를 예측했다고 느끼는 인지적 착각입니다. Fischhoff(1975)가 처음 체계적으로 연구한 이 현상은 놀라울 정도로 보편적입니다.",
+      "emoji": "🪞",
+      "bgColor": "#ECEFF1",
+      "textColor": "#37474F"
+    },
+    {
+      "id": "card2",
+      "title": "왜 이런 착각이 일어날까?",
+      "body": "결과를 알게 되면 뇌는 자동으로 기억을 재구성합니다. 결과와 일치하는 단서들은 부각되고, 모순되는 정보는 축소됩니다. 마치 퍼즐 답을 본 후 '쉽네'라고 느끼는 것과 같습니다. 이는 뇌가 세상을 예측 가능하고 이해 가능한 곳으로 만들고 싶어하기 때문입니다.",
+      "emoji": "🧠",
+      "bgColor": "#ECEFF1",
+      "textColor": "#37474F"
+    },
+    {
+      "id": "card3",
+      "title": "사후 확신 편향의 위험성",
+      "body": "이 편향은 과거의 실수에서 배우는 것을 방해합니다. '이미 알고 있었다'고 느끼면 자기 판단의 오류를 인식하지 못하게 됩니다. 또한 타인을 부당하게 비난하는 원인이 됩니다. '그때 왜 그걸 몰랐어?'라는 말은 결과를 모르는 상태의 불확실성을 무시하는 것입니다.",
+      "emoji": "⚠️",
+      "bgColor": "#ECEFF1",
+      "textColor": "#37474F"
+    },
+    {
+      "id": "card4",
+      "title": "사후 확신을 줄이는 연습",
+      "body": "첫째, 결정 당시 알았던 정보만으로 돌아가 생각해보세요. 그때의 불확실성을 떠올리는 것입니다. 둘째, 중요한 결정 전에 자신의 예측과 근거를 기록해두세요. 셋째, 다른 결과가 나올 수 있었던 이유를 의식적으로 떠올려보세요. 겸손한 복기가 성장의 열쇠입니다.",
+      "emoji": "📝",
+      "bgColor": "#ECEFF1",
+      "textColor": "#37474F"
+    },
+    {
+      "id": "card5",
+      "title": "불확실성을 인정하는 용기",
+      "body": "우리는 모든 것을 예측할 수 없습니다. 사후 확신 편향을 알아차리는 것만으로도 자신과 타인에게 더 공정해질 수 있습니다. '그때는 정말 몰랐어'라고 인정하는 것이 진정한 자기 이해의 시작입니다.\n\n이 콘텐츠는 심리학 연구를 바탕으로 한 정보 제공 목적이며, 전문적인 심리 상담이나 치료를 대체하지 않습니다.",
+      "emoji": "🌿",
+      "bgColor": "#ECEFF1",
+      "textColor": "#37474F"
+    }
+  ],
+  "source": "Fischhoff, B. (1975). Hindsight is not equal to foresight: The effect of outcome knowledge on judgment under uncertainty. Journal of Experimental Psychology: Human Perception and Performance, 1(3), 288-299.",
+  "release_date": "2026-03-29"
+}

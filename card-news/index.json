@@ -1,9 +1,417 @@
 [
   {
+    "id": "anxiety-helps-us",
+    "title": "불안이 우리를 돕고 있다",
+    "emoji": "⚡",
+    "category": "emotion_awareness",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "body-map-of-emotions",
+    "title": "감정과 신체 반응의 연결",
+    "emoji": "🫀",
+    "category": "emotion_awareness",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "emotional-contagion",
+    "title": "감정의 전염",
+    "emoji": "🔗",
+    "category": "emotion_awareness",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "emotional-vocabulary",
+    "title": "감정 어휘력이 중요한 이유",
+    "emoji": "📝",
+    "category": "emotion_awareness",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "hidden-emotions-of-anger",
+    "title": "분노의 숨겨진 감정들",
+    "emoji": "🌋",
+    "category": "emotion_awareness",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
     "id": "how-emotions-are-made",
     "title": "감정이 만들어지는 과정",
     "emoji": "🧠",
     "category": "emotion_awareness",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "mixed-emotions",
+    "title": "슬프면서 기쁜 감정은 정상인가",
+    "emoji": "🎭",
+    "category": "emotion_awareness",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "psychology-of-gratitude",
+    "title": "감사 감정의 심리학",
+    "emoji": "🙏",
+    "category": "emotion_awareness",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "sadness-vs-depression",
+    "title": "슬픔과 우울의 차이",
+    "emoji": "🌧️",
+    "category": "emotion_awareness",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "cognitive-reappraisal",
+    "title": "인지적 재평가란",
+    "emoji": "🔄",
+    "category": "emotion_regulation",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "emotion-regulation-5-steps",
+    "title": "감정 조절의 5단계 과정",
+    "emoji": "📊",
+    "category": "emotion_regulation",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "emotion-regulation-flexibility",
+    "title": "감정 조절 유연성",
+    "emoji": "🤸",
+    "category": "emotion_regulation",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "expressive-writing",
+    "title": "글쓰기를 통한 감정 처리",
+    "emoji": "✍️",
+    "category": "emotion_regulation",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "mindfulness-and-emotions",
+    "title": "마음챙김과 감정 조절",
+    "emoji": "🧘",
+    "category": "emotion_regulation",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "multi-strategy-regulation",
+    "title": "여러 전략을 함께 사용하기",
+    "emoji": "🧩",
+    "category": "emotion_regulation",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "science-of-breathing",
+    "title": "호흡법의 과학",
+    "emoji": "🌬️",
+    "category": "emotion_regulation",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "stress-response-explained",
+    "title": "스트레스 반응의 이해",
+    "emoji": "🏃",
+    "category": "emotion_regulation",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "why-suppression-backfires",
+    "title": "감정 억제는 왜 역효과를 내는가",
+    "emoji": "🚫",
+    "category": "emotion_regulation",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "growth-mindset",
+    "title": "성장 마인드셋 vs 고정 마인드셋",
+    "emoji": "🌱",
+    "category": "self_growth",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "habit-formation-66days",
+    "title": "습관 형성의 심리학",
+    "emoji": "📅",
+    "category": "self_growth",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "meaning-making",
+    "title": "의미 만들기와 삶의 만족",
+    "emoji": "🧭",
+    "category": "self_growth",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "perfectionism-light-shadow",
+    "title": "완벽주의의 빛과 그림자",
+    "emoji": "✨",
+    "category": "self_growth",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "self-compassion-guide",
+    "title": "자기 자비: 나에게 친절하기",
+    "emoji": "🤗",
+    "category": "self_growth",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "self-determination-happiness",
+    "title": "자기 결정감이 행복에 미치는 영향",
+    "emoji": "🗝️",
+    "category": "self_growth",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "self-efficacy-4-sources",
+    "title": "자기효능감 높이는 4가지 방법",
+    "emoji": "💪",
+    "category": "self_growth",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "stop-rumination",
+    "title": "반추를 멈추는 방법",
+    "emoji": "🔁",
+    "category": "self_growth",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "attachment-styles",
+    "title": "애착 유형 이해하기",
+    "emoji": "💞",
+    "category": "relationships",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "emotional-labor",
+    "title": "관계에서의 감정 노동",
+    "emoji": "🎭",
+    "category": "relationships",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "healthy-conflict-resolution",
+    "title": "건강한 갈등 해결의 4원칙",
+    "emoji": "🤝",
+    "category": "relationships",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "i-message-technique",
+    "title": "효과적인 감정 표현",
+    "emoji": "💬",
+    "category": "relationships",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "loneliness-psychology",
+    "title": "외로움의 심리학",
+    "emoji": "🏝️",
+    "category": "relationships",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "rejection-sensitivity",
+    "title": "거절 민감성 이해하기",
+    "emoji": "💔",
+    "category": "relationships",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "setting-boundaries",
+    "title": "바운더리 설정의 심리학",
+    "emoji": "🛡️",
+    "category": "relationships",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "social-comparison-self-esteem",
+    "title": "사회적 비교와 자존감",
+    "emoji": "📱",
+    "category": "relationships",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "three-types-of-empathy",
+    "title": "공감의 3요소",
+    "emoji": "👂",
+    "category": "relationships",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "broaden-and-build",
+    "title": "긍정 감정의 확장-구축 효과",
+    "emoji": "🌻",
+    "category": "wellbeing_resilience",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "exercise-mental-health",
+    "title": "운동이 정신건강에 미치는 효과",
+    "emoji": "🏃‍♂️",
+    "category": "wellbeing_resilience",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "flow-experience",
+    "title": "몰입 경험 만들기",
+    "emoji": "🎯",
+    "category": "wellbeing_resilience",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "gratitude-practice",
+    "title": "감사 실천의 과학적 효과",
+    "emoji": "📓",
+    "category": "wellbeing_resilience",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "nature-stress-reduction",
+    "title": "자연과 스트레스 감소",
+    "emoji": "🌿",
+    "category": "wellbeing_resilience",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "perma-model",
+    "title": "PERMA 모델: 웰빙의 5가지 기둥",
+    "emoji": "🏛️",
+    "category": "wellbeing_resilience",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "resilience-3-factors",
+    "title": "회복탄력성의 3가지 요인",
+    "emoji": "🌈",
+    "category": "wellbeing_resilience",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "sleep-and-emotions",
+    "title": "수면과 감정의 관계",
+    "emoji": "😴",
+    "category": "wellbeing_resilience",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "small-joys-science",
+    "title": "소확행의 심리학",
+    "emoji": "☕",
+    "category": "wellbeing_resilience",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "anchoring-effect",
+    "title": "정박 효과와 일상 판단",
+    "emoji": "⚓",
+    "category": "everyday_psychology",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "confirmation-bias",
+    "title": "확증 편향: 보고 싶은 것만 보는 이유",
+    "emoji": "🔍",
+    "category": "everyday_psychology",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "decision-fatigue",
+    "title": "결정 피로와 의지력의 한계",
+    "emoji": "🔋",
+    "category": "everyday_psychology",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "digital-fatigue",
+    "title": "디지털 피로와 주의력 관리",
+    "emoji": "📵",
+    "category": "everyday_psychology",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "hindsight-bias",
+    "title": "사후 확신 편향의 함정",
+    "emoji": "🪞",
+    "category": "everyday_psychology",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "nostalgia-function",
+    "title": "향수의 심리적 기능",
+    "emoji": "🎞️",
+    "category": "everyday_psychology",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "present-bias",
+    "title": "현재 편향과 미래의 나",
+    "emoji": "⏰",
+    "category": "everyday_psychology",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "zeigarnik-effect",
+    "title": "미완의 일이 머릿속을 맴도는 이유",
+    "emoji": "🔄",
+    "category": "everyday_psychology",
     "cardCount": 5,
     "release_date": "2026-03-29"
   }
