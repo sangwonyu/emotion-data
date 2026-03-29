@@ -96,6 +96,14 @@
     "release_date": "2026-03-29"
   },
   {
+    "id": "emotional-eating",
+    "title": "감정적 식사의 심리학",
+    "emoji": "🍫",
+    "category": "emotion_regulation",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
     "id": "expressive-writing",
     "title": "글쓰기를 통한 감정 처리",
     "emoji": "✍️",
@@ -155,6 +163,14 @@
     "id": "habit-formation-66days",
     "title": "습관 형성의 심리학",
     "emoji": "📅",
+    "category": "self_growth",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "impostor-syndrome",
+    "title": "가면 증후군 이해하기",
+    "emoji": "🎭",
     "category": "self_growth",
     "cardCount": 5,
     "release_date": "2026-03-29"
@@ -248,6 +264,14 @@
     "release_date": "2026-03-29"
   },
   {
+    "id": "love-languages",
+    "title": "5가지 사랑의 언어",
+    "emoji": "💕",
+    "category": "relationships",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
     "id": "rejection-sensitivity",
     "title": "거절 민감성 이해하기",
     "emoji": "💔",
@@ -276,6 +300,14 @@
     "title": "공감의 3요소",
     "emoji": "👂",
     "category": "relationships",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "awe-experience",
+    "title": "경외감의 심리적 효과",
+    "emoji": "🌌",
+    "category": "wellbeing_resilience",
     "cardCount": 5,
     "release_date": "2026-03-29"
   },
@@ -379,6 +411,14 @@
     "id": "digital-fatigue",
     "title": "디지털 피로와 주의력 관리",
     "emoji": "📵",
+    "category": "everyday_psychology",
+    "cardCount": 5,
+    "release_date": "2026-03-29"
+  },
+  {
+    "id": "dunning-kruger-effect",
+    "title": "더닝-크루거 효과: 왜 모르는 걸 모르는가",
+    "emoji": "📈",
     "category": "everyday_psychology",
     "cardCount": 5,
     "release_date": "2026-03-29"
