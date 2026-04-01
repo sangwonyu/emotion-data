@@ -494,5 +494,45 @@
     "category": "self_growth",
     "cardCount": 5,
     "release_date": "2026-04-01"
+  },
+  {
+    "id": "cognitive-defusion",
+    "title": "생각에서 한 발짝 떨어지기",
+    "emoji": "💭",
+    "category": "emotion_regulation",
+    "cardCount": 5,
+    "release_date": "2026-04-02"
+  },
+  {
+    "id": "negativity-bias",
+    "title": "왜 나쁜 기억이 더 선명할까",
+    "emoji": "⚡",
+    "category": "everyday_psychology",
+    "cardCount": 5,
+    "release_date": "2026-04-02"
+  },
+  {
+    "id": "self-complexity",
+    "title": "나는 몇 개의 '나'로 이루어져 있을까",
+    "emoji": "🪆",
+    "category": "self_growth",
+    "cardCount": 5,
+    "release_date": "2026-04-02"
+  },
+  {
+    "id": "rupture-repair",
+    "title": "관계의 균열과 회복",
+    "emoji": "🩹",
+    "category": "relationships",
+    "cardCount": 5,
+    "release_date": "2026-04-02"
+  },
+  {
+    "id": "post-traumatic-growth",
+    "title": "상처 뒤에 찾아오는 성장",
+    "emoji": "🌱",
+    "category": "wellbeing_resilience",
+    "cardCount": 5,
+    "release_date": "2026-04-02"
   }
 ]

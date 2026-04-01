@@ -196,5 +196,50 @@
     "questionCount": 6,
     "exp": 40,
     "release_date": "2026-04-01"
+  },
+  {
+    "id": "boundary-style",
+    "name": "나의 심리적 경계 스타일",
+    "emoji": "🚧",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-04-02"
+  },
+  {
+    "id": "cognitive-flexibility",
+    "name": "나의 인지 유연성",
+    "emoji": "🔀",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-04-02"
+  },
+  {
+    "id": "core-values",
+    "name": "나의 핵심 가치관",
+    "emoji": "🧭",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-04-02"
+  },
+  {
+    "id": "emotional-granularity",
+    "name": "나의 감정 해상도",
+    "emoji": "🔬",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-04-02"
+  },
+  {
+    "id": "regulatory-focus",
+    "name": "나의 동기 초점",
+    "emoji": "🎯",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-04-02"
   }
 ]
