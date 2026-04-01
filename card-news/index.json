@@ -454,5 +454,45 @@
     "category": "everyday_psychology",
     "cardCount": 5,
     "release_date": "2026-03-29"
+  },
+  {
+    "id": "emotion-labeling",
+    "title": "감정에 이름을 붙이면 마법이 일어난다",
+    "emoji": "🏷️",
+    "category": "emotion_regulation",
+    "cardCount": 5,
+    "release_date": "2026-04-01"
+  },
+  {
+    "id": "self-fulfilling-prophecy",
+    "title": "내가 믿는 대로 이루어지는 이유",
+    "emoji": "🔮",
+    "category": "everyday_psychology",
+    "cardCount": 5,
+    "release_date": "2026-04-01"
+  },
+  {
+    "id": "micro-recovery",
+    "title": "5분이면 충분해, 마이크로 회복의 힘",
+    "emoji": "⚡",
+    "category": "wellbeing_resilience",
+    "cardCount": 5,
+    "release_date": "2026-04-01"
+  },
+  {
+    "id": "secure-base-relationship",
+    "title": "마음이 쉴 수 있는 사람이 있나요?",
+    "emoji": "🏠",
+    "category": "relationships",
+    "cardCount": 5,
+    "release_date": "2026-04-01"
+  },
+  {
+    "id": "self-distancing",
+    "title": "나를 3인칭으로 바라보면 생기는 변화",
+    "emoji": "🔭",
+    "category": "self_growth",
+    "cardCount": 5,
+    "release_date": "2026-04-01"
   }
 ]

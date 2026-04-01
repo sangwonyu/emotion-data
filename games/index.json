@@ -151,5 +151,50 @@
     "questionCount": 6,
     "exp": 40,
     "release_date": "2026-03-29"
+  },
+  {
+    "id": "self-talk-pattern",
+    "name": "나에게 말을 거는 방식",
+    "emoji": "💬",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-04-01"
+  },
+  {
+    "id": "time-perspective",
+    "name": "나는 어디에 살고 있을까 - 과거, 현재, 미래",
+    "emoji": "⏳",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-04-01"
+  },
+  {
+    "id": "locus-of-control",
+    "name": "내 인생의 운전대는 누가 잡고 있을까",
+    "emoji": "🎯",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-04-01"
+  },
+  {
+    "id": "emotional-expression",
+    "name": "감정을 꺼내는 나만의 방법",
+    "emoji": "🎭",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-04-01"
+  },
+  {
+    "id": "social-comparison",
+    "name": "나는 누구와 나를 비교하고 있을까",
+    "emoji": "🪞",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-04-01"
   }
 ]
