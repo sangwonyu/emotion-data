@@ -1,0 +1,50 @@
+{
+  "id": "self-determination-three-needs",
+  "title": "마음의 세 가지 영양소: 자율, 유능, 연결",
+  "subtitle": "자기결정이론이 알려주는 진짜 동기의 비밀",
+  "category": "self_growth",
+  "cards": [
+    {
+      "id": "card1",
+      "title": "왜 어떤 날은 의욕이 넘치고, 어떤 날은 모든 게 귀찮을까?",
+      "body": "의욕이 없는 날, 우리는 보통 자신을 탓합니다. \"왜 이렇게 게으르지?\" 하지만 심리학자 Edward Deci와 Richard Ryan은 50년간의 연구를 통해 다른 답을 찾았습니다. 인간에게는 충족되어야 제대로 기능할 수 있는 세 가지 '심리적 영양소'가 있다는 것입니다. 이것이 바로 자기결정이론(Self-Determination Theory)의 핵심, 기본 심리 욕구입니다.",
+      "emoji": "🔋",
+      "bgColor": "#E8F5E9",
+      "textColor": "#2E7D32"
+    },
+    {
+      "id": "card2",
+      "title": "세 가지 기본 심리 욕구",
+      "body": "첫째, 자율성(Autonomy): \"내 행동이 내 선택이다\"라는 느낌입니다. 시킨 일이 아니라 스스로 정한 일을 할 때 에너지가 생기는 이유입니다.\n\n둘째, 유능감(Competence): \"나는 해낼 수 있다\"는 느낌입니다. 적절한 도전과 성취의 경험이 이 욕구를 채워줍니다.\n\n셋째, 관계성(Relatedness): \"누군가와 의미 있게 연결되어 있다\"는 느낌입니다. 진정한 소속감과 이해받는 경험이 핵심입니다.\n\nRyan과 Deci(2017)에 따르면, 이 세 가지가 충족되면 내재적 동기와 활력이 자연스럽게 올라옵니다.",
+      "emoji": "🧩",
+      "bgColor": "#E8F5E9",
+      "textColor": "#2E7D32"
+    },
+    {
+      "id": "card3",
+      "title": "충족 vs 좌절: 같은 욕구, 정반대의 결과",
+      "body": "Vansteenkiste와 Ryan(2013)의 연구에 따르면, 욕구가 단순히 '안 채워진' 것과 '적극적으로 좌절된' 것은 다릅니다. 누군가에게 통제당하는 느낌(자율성 좌절), 반복적 실패와 무시 경험(유능감 좌절), 거부와 고립(관계성 좌절)은 무기력, 불안, 우울로 이어질 수 있습니다. Chen 등(2015)의 4개 문화권 연구에서도 욕구 충족은 웰빙을, 욕구 좌절은 부적응을 일관되게 예측했습니다.",
+      "emoji": "⚖️",
+      "bgColor": "#E8F5E9",
+      "textColor": "#2E7D32"
+    },
+    {
+      "id": "card4",
+      "title": "내 심리 욕구 자가 점검",
+      "body": "최근 일주일을 돌아보며 세 가지 질문에 답해보세요.\n\n1. 자율성: \"최근에 내가 스스로 선택한 것이 있는가?\"\n2. 유능감: \"무언가를 해냈다는 느낌이 있는가?\"\n3. 관계성: \"진심으로 대화한 사람이 있는가?\"\n\n부족한 영역이 있다면, 하루 한 가지 작은 행동으로 채워보세요. 자율성이 부족하다면 오늘 점심 메뉴라도 스스로 정해보고, 유능감이 부족하다면 작은 목표 하나를 완수해보고, 관계성이 부족하다면 소중한 사람에게 짧은 메시지를 보내보세요.",
+      "emoji": "🛠️",
+      "bgColor": "#E8F5E9",
+      "textColor": "#2E7D32"
+    },
+    {
+      "id": "card5",
+      "title": "의욕은 의지가 아니라 환경이다",
+      "body": "동기가 떨어졌을 때 자신의 의지를 탓하지 마세요. 50년간의 연구가 말해주는 진실은 이것입니다 — 동기는 의지력이 아니라 심리적 영양소의 문제입니다. 세 가지 기본 욕구가 충족되는 환경을 만드는 것이 진정한 동기 부여의 시작입니다. 오늘 하루, 자율·유능·연결 중 가장 부족한 하나를 인식하는 것부터 시작해보세요.\n\n이 콘텐츠는 심리학 연구를 바탕으로 한 정보 제공 목적이며, 전문적인 심리 상담이나 치료를 대체하지 않습니다. 지속적인 어려움을 겪고 계시다면 전문가와 상담하시길 권합니다.",
+      "emoji": "🌟",
+      "bgColor": "#E8F5E9",
+      "textColor": "#2E7D32"
+    }
+  ],
+  "source": "Ryan, R. M. & Deci, E. L. (2017). Self-Determination Theory. Guilford Press.; Vansteenkiste, M. & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration. Journal of Personality, 81(6), 753-764.; Chen, B., et al. (2015). Basic psychological need satisfaction across four cultures. Motivation and Emotion, 39(2), 216-236.",
+  "release_date": "2026-04-02"
+}

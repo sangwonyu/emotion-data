@@ -534,5 +534,45 @@
     "category": "wellbeing_resilience",
     "cardCount": 5,
     "release_date": "2026-04-02"
+  },
+  {
+    "id": "affective-forecasting-error",
+    "title": "우리는 왜 미래의 감정을 틀리게 예측할까",
+    "emoji": "🔮",
+    "category": "everyday_psychology",
+    "cardCount": 5,
+    "release_date": "2026-04-02"
+  },
+  {
+    "id": "moral-elevation-emotion",
+    "title": "가슴이 뜨거워지는 순간, 도덕적 고양감의 비밀",
+    "emoji": "🕊️",
+    "category": "emotion_awareness",
+    "cardCount": 5,
+    "release_date": "2026-04-02"
+  },
+  {
+    "id": "window-of-tolerance",
+    "title": "내 감정이 감당 가능한 범위, 인내의 창",
+    "emoji": "🪟",
+    "category": "emotion_regulation",
+    "cardCount": 5,
+    "release_date": "2026-04-02"
+  },
+  {
+    "id": "self-determination-three-needs",
+    "title": "마음의 세 가지 영양소: 자율, 유능, 연결",
+    "emoji": "🔋",
+    "category": "self_growth",
+    "cardCount": 5,
+    "release_date": "2026-04-02"
+  },
+  {
+    "id": "tend-and-befriend-stress",
+    "title": "스트레스를 받으면 사람을 찾는 이유",
+    "emoji": "🫂",
+    "category": "relationships",
+    "cardCount": 5,
+    "release_date": "2026-04-02"
   }
 ]

@@ -241,5 +241,50 @@
     "questionCount": 6,
     "exp": 40,
     "release_date": "2026-04-02"
+  },
+  {
+    "id": "my-guilt-compass",
+    "name": "나의 죄책감은 어디를 가리키는가",
+    "emoji": "🧭",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-04-02"
+  },
+  {
+    "id": "my-curiosity-engine",
+    "name": "나를 끌어당기는 궁금함의 정체",
+    "emoji": "🔭",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-04-02"
+  },
+  {
+    "id": "my-safety-signal",
+    "name": "나는 언제 안전하다고 느끼는가",
+    "emoji": "🛡️",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-04-02"
+  },
+  {
+    "id": "my-future-self",
+    "name": "미래의 나는 어떤 사람일까",
+    "emoji": "🔮",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-04-02"
+  },
+  {
+    "id": "my-self-silencing-pattern",
+    "name": "나는 언제 나를 삼키는가",
+    "emoji": "🤐",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-04-02"
   }
 ]

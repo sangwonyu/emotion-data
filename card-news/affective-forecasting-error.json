@@ -1,0 +1,50 @@
+{
+  "id": "affective-forecasting-error",
+  "title": "우리는 왜 미래의 감정을 틀리게 예측할까",
+  "subtitle": "감정 예측 오류의 심리학",
+  "category": "everyday_psychology",
+  "cards": [
+    {
+      "id": "card1",
+      "title": "\"이 일이 생기면 난 절대 견딜 수 없을 거야\"",
+      "body": "시험에 떨어지면 끝장일 것 같고, 이별하면 영원히 행복할 수 없을 것 같고, 승진하면 매일이 기쁠 것 같았던 적 있나요? 우리는 미래에 일어날 일이 가져올 감정을 자주 예측하지만, 놀랍게도 그 예측은 대부분 틀립니다. 심리학에서는 이를 '감정 예측 오류(affective forecasting error)'라 부릅니다.",
+      "emoji": "🔮",
+      "bgColor": "#ECEFF1",
+      "textColor": "#37474F"
+    },
+    {
+      "id": "card2",
+      "title": "영향 편향: 감정의 지속 시간을 틀리는 이유",
+      "body": "심리학자 Gilbert와 Wilson(2003)은 수많은 실험을 통해 사람들이 미래 감정의 '강도'와 '지속 시간'을 체계적으로 과대 예측한다는 것을 밝혀냈습니다. 복권 당첨자도, 큰 사고를 겪은 사람도 예상보다 훨씬 빠르게 일상적 감정 수준으로 돌아왔습니다. 기쁨이든 슬픔이든, 우리는 그 감정이 '영원할 것'이라고 착각합니다. 이것을 '영향 편향(impact bias)'이라 합니다.",
+      "emoji": "📊",
+      "bgColor": "#ECEFF1",
+      "textColor": "#37474F"
+    },
+    {
+      "id": "card3",
+      "title": "심리적 면역 체계: 보이지 않는 회복력",
+      "body": "Gilbert 등(1998)은 인간에게 '심리적 면역 체계(psychological immune system)'가 있다고 설명합니다. 이 체계는 부정적 경험을 합리화하고, 의미를 부여하고, 적응하게 하는 무의식적 회복 기제입니다. 문제는 이 시스템이 의식적으로 작동하지 않기 때문에, 미래를 예측할 때 '내가 회복할 수 있다'는 사실을 계산에 넣지 못한다는 것입니다.",
+      "emoji": "🛡️",
+      "bgColor": "#ECEFF1",
+      "textColor": "#37474F"
+    },
+    {
+      "id": "card4",
+      "title": "감정 예측을 교정하는 3가지 방법",
+      "body": "1. 대리 경험 활용하기: 비슷한 경험을 한 사람에게 \"실제로 어땠어?\"라고 물어보세요. 타인의 실제 경험은 자신의 상상보다 정확한 예측 도구입니다.\n\n2. 과거 경험 회상하기: 지난번 비슷한 상황에서 실제로 어땠는지 떠올려보세요. 예상만큼 오래 힘들지 않았을 가능성이 높습니다.\n\n3. \"이것도 지나갈 것이다\" 의식하기: 감정은 날씨와 같아서 반드시 변합니다. 이 사실을 의식적으로 떠올리는 것만으로도 불필요한 걱정이 줄어듭니다.",
+      "emoji": "🛠️",
+      "bgColor": "#ECEFF1",
+      "textColor": "#37474F"
+    },
+    {
+      "id": "card5",
+      "title": "미래의 나는 생각보다 강하다",
+      "body": "감정 예측 오류를 아는 것만으로도 불필요한 걱정과 과도한 기대를 줄일 수 있습니다. 두려운 일 앞에서 \"이 감정은 내가 예측하는 것만큼 오래가지 않을 거야\"라고 스스로에게 말해보세요. 미래의 당신은 지금 상상하는 것보다 훨씬 잘 회복하고 적응할 수 있는 사람입니다.\n\n이 콘텐츠는 심리학 연구를 바탕으로 한 정보 제공 목적이며, 전문적인 심리 상담이나 치료를 대체하지 않습니다. 지속적인 어려움을 겪고 계시다면 전문가와 상담하시길 권합니다.",
+      "emoji": "🌟",
+      "bgColor": "#ECEFF1",
+      "textColor": "#37474F"
+    }
+  ],
+  "source": "Wilson, T. D. & Gilbert, D. T. (2003). Affective forecasting. Advances in Experimental Social Psychology, 35, 345-411.; Gilbert, D. T., et al. (1998). Immune neglect: A source of durability bias in affective forecasting. Journal of Personality and Social Psychology, 75(3), 617-638.",
+  "release_date": "2026-04-02"
+}
