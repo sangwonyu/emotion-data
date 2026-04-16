@@ -286,5 +286,50 @@
     "questionCount": 6,
     "exp": 40,
     "release_date": "2026-04-02"
+  },
+  {
+    "id": "my-procrastination-style",
+    "name": "나는 왜 미루는가",
+    "emoji": "⏳",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-04-17"
+  },
+  {
+    "id": "how-i-savor",
+    "name": "나는 어떻게 음미하는가",
+    "emoji": "✨",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-04-17"
+  },
+  {
+    "id": "my-ownership-map",
+    "name": "내가 진짜 내 것이라 느끼는 것",
+    "emoji": "🏷️",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-04-17"
+  },
+  {
+    "id": "my-help-seeking-style",
+    "name": "나는 어떻게 도움을 구하는가",
+    "emoji": "🤝",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-04-17"
+  },
+  {
+    "id": "my-mental-time-travel",
+    "name": "나의 마음은 어디에 머무는가",
+    "emoji": "🕰️",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-04-17"
   }
 ]
