@@ -614,5 +614,45 @@
     "category": "emotion_awareness",
     "cardCount": 5,
     "release_date": "2026-04-17"
+  },
+  {
+    "id": "affect-as-information",
+    "title": "감정이 판단을 이끈다: 감정-정보 효과",
+    "emoji": "🧭",
+    "category": "everyday_psychology",
+    "cardCount": 5,
+    "release_date": "2026-04-17"
+  },
+  {
+    "id": "emotional-granularity-regulation",
+    "title": "감정을 정밀하게 다루는 기술",
+    "emoji": "🔬",
+    "category": "emotion_regulation",
+    "cardCount": 5,
+    "release_date": "2026-04-17"
+  },
+  {
+    "id": "peak-end-rule",
+    "title": "끝이 좋으면 다 좋다: 피크-엔드 법칙",
+    "emoji": "📸",
+    "category": "everyday_psychology",
+    "cardCount": 5,
+    "release_date": "2026-04-17"
+  },
+  {
+    "id": "self-disclosure-depth",
+    "title": "마음을 여는 깊이: 자기개방의 심리학",
+    "emoji": "🚪",
+    "category": "relationships",
+    "cardCount": 5,
+    "release_date": "2026-04-17"
+  },
+  {
+    "id": "broaden-build-spiral",
+    "title": "긍정감정의 상승 나선: 확장-구축의 실전",
+    "emoji": "🌀",
+    "category": "wellbeing_resilience",
+    "cardCount": 5,
+    "release_date": "2026-04-17"
   }
 ]

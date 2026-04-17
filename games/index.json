@@ -331,5 +331,50 @@
     "questionCount": 6,
     "exp": 40,
     "release_date": "2026-04-17"
+  },
+  {
+    "id": "emotional-creativity",
+    "name": "감정 창의성 탐색",
+    "emoji": "🎨",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-04-17"
+  },
+  {
+    "id": "hope-pathways",
+    "name": "희망 경로 탐색",
+    "emoji": "🌱",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-04-17"
+  },
+  {
+    "id": "self-expansion",
+    "name": "자기확장 성향 탐색",
+    "emoji": "🔭",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-04-17"
+  },
+  {
+    "id": "delay-gratification",
+    "name": "만족 지연 전략 탐색",
+    "emoji": "⏳",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-04-17"
+  },
+  {
+    "id": "grit-profile",
+    "name": "그릿 프로필 탐색",
+    "emoji": "🔥",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-04-17"
   }
 ]
