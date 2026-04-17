@@ -654,5 +654,45 @@
     "category": "wellbeing_resilience",
     "cardCount": 5,
     "release_date": "2026-04-17"
+  },
+  {
+    "id": "sternberg-love-triangle",
+    "title": "사랑의 삼각형: 친밀감, 열정, 헌신",
+    "emoji": "💘",
+    "category": "relationships",
+    "cardCount": 5,
+    "release_date": "2026-04-17"
+  },
+  {
+    "id": "gottman-four-horsemen",
+    "title": "관계를 위협하는 4가지 소통 패턴",
+    "emoji": "🐴",
+    "category": "relationships",
+    "cardCount": 5,
+    "release_date": "2026-04-17"
+  },
+  {
+    "id": "relationship-investment-model",
+    "title": "관계를 지속하게 만드는 심리적 힘",
+    "emoji": "💎",
+    "category": "relationships",
+    "cardCount": 5,
+    "release_date": "2026-04-17"
+  },
+  {
+    "id": "interpersonal-emotion-regulation",
+    "title": "연인이 내 감정을 조절해주는 방법",
+    "emoji": "🤲",
+    "category": "relationships",
+    "cardCount": 5,
+    "release_date": "2026-04-17"
+  },
+  {
+    "id": "breakup-growth-psychology",
+    "title": "이별 후 성장의 심리학",
+    "emoji": "🌅",
+    "category": "relationships",
+    "cardCount": 5,
+    "release_date": "2026-04-17"
   }
 ]

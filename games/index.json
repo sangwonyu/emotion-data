@@ -376,5 +376,50 @@
     "questionCount": 6,
     "exp": 40,
     "release_date": "2026-04-17"
+  },
+  {
+    "id": "my-love-triangle",
+    "name": "내가 사랑하는 방식",
+    "emoji": "💘",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-04-17"
+  },
+  {
+    "id": "my-love-style",
+    "name": "나의 연애 스타일",
+    "emoji": "🎨",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-04-17"
+  },
+  {
+    "id": "my-conflict-signal",
+    "name": "나의 관계 갈등 신호",
+    "emoji": "⚡",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-04-17"
+  },
+  {
+    "id": "my-relationship-investment",
+    "name": "관계에서 내가 중요시하는 것",
+    "emoji": "💎",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-04-17"
+  },
+  {
+    "id": "my-breakup-coping",
+    "name": "이별 후 나의 회복 방식",
+    "emoji": "🌅",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-04-17"
   }
 ]
