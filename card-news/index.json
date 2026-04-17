@@ -734,5 +734,45 @@
     "category": "relationships",
     "cardCount": 5,
     "release_date": "2026-04-18"
+  },
+  {
+    "id": "nostalgia-power",
+    "title": "향수의 놀라운 심리적 효과",
+    "emoji": "🌅",
+    "category": "wellbeing_resilience",
+    "cardCount": 5,
+    "release_date": "2026-04-18"
+  },
+  {
+    "id": "stereotype-threat",
+    "title": "고정관념 위협이 나의 실력을 숨긴다",
+    "emoji": "🏷️",
+    "category": "self_growth",
+    "cardCount": 5,
+    "release_date": "2026-04-18"
+  },
+  {
+    "id": "ego-depletion-debate",
+    "title": "의지력은 정말 소모되는 자원일까?",
+    "emoji": "🔋",
+    "category": "everyday_psychology",
+    "cardCount": 5,
+    "release_date": "2026-04-18"
+  },
+  {
+    "id": "moral-intuition-reasoning",
+    "title": "도덕적 판단은 직감이 먼저 이유는 나중",
+    "emoji": "🧠",
+    "category": "emotion_awareness",
+    "cardCount": 5,
+    "release_date": "2026-04-18"
+  },
+  {
+    "id": "self-monitoring-chameleon",
+    "title": "사회적 카멜레온: 상황에 따라 변하는 나",
+    "emoji": "🪞",
+    "category": "self_growth",
+    "cardCount": 5,
+    "release_date": "2026-04-18"
   }
 ]
