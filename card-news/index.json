@@ -694,5 +694,45 @@
     "category": "relationships",
     "cardCount": 5,
     "release_date": "2026-04-17"
+  },
+  {
+    "id": "positive-illusions-romance",
+    "title": "연인을 더 좋게 보는 심리, 긍정적 환상",
+    "emoji": "🌹",
+    "category": "relationships",
+    "cardCount": 5,
+    "release_date": "2026-04-18"
+  },
+  {
+    "id": "equity-theory-romance",
+    "title": "주는 만큼 받는 게 맞을까? 형평성 이론",
+    "emoji": "⚖️",
+    "category": "relationships",
+    "cardCount": 5,
+    "release_date": "2026-04-18"
+  },
+  {
+    "id": "unrequited-love-psychology",
+    "title": "짝사랑의 심리학: 왜 이렇게 아플까",
+    "emoji": "💔",
+    "category": "relationships",
+    "cardCount": 5,
+    "release_date": "2026-04-18"
+  },
+  {
+    "id": "relationship-boredom",
+    "title": "권태기는 왜 오는 걸까? 관계 권태의 심리",
+    "emoji": "😶‍🌫️",
+    "category": "relationships",
+    "cardCount": 5,
+    "release_date": "2026-04-18"
+  },
+  {
+    "id": "on-off-relationships",
+    "title": "재회와 이별을 반복하는 관계의 심리학",
+    "emoji": "🔄",
+    "category": "relationships",
+    "cardCount": 5,
+    "release_date": "2026-04-18"
   }
 ]
