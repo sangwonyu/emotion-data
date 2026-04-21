@@ -511,5 +511,50 @@
     "questionCount": 6,
     "exp": 40,
     "release_date": "2026-04-18"
+  },
+  {
+    "id": "love-michelangelo",
+    "name": "파트너가 빚는 나의 모습",
+    "emoji": "🪨",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-04-21"
+  },
+  {
+    "id": "love-capitalization",
+    "name": "좋은 소식 어떻게 나누나요",
+    "emoji": "🎉",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-04-21"
+  },
+  {
+    "id": "love-forgiveness",
+    "name": "관계 속 용서 나의 방식은",
+    "emoji": "🕊️",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-04-21"
+  },
+  {
+    "id": "love-invisible-support",
+    "name": "보이지 않는 지지의 힘",
+    "emoji": "🫂",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-04-21"
+  },
+  {
+    "id": "love-social-penetration",
+    "name": "우리 사이 얼마나 깊어졌나",
+    "emoji": "🧅",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-04-21"
   }
 ]

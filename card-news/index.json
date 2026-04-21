@@ -774,5 +774,45 @@
     "category": "self_growth",
     "cardCount": 5,
     "release_date": "2026-04-18"
+  },
+  {
+    "id": "exchange-vs-communal",
+    "title": "연인 사이에 계산기가 필요할까?",
+    "emoji": "⚖️",
+    "category": "relationships",
+    "cardCount": 5,
+    "release_date": "2026-04-21"
+  },
+  {
+    "id": "self-regulation-relationship",
+    "title": "자기조절력이 바닥나면 관계도 흔들린다",
+    "emoji": "🔋",
+    "category": "relationships",
+    "cardCount": 5,
+    "release_date": "2026-04-21"
+  },
+  {
+    "id": "humor-in-relationships",
+    "title": "웃기면 다 괜찮은 걸까? 유머의 두 얼굴",
+    "emoji": "😂",
+    "category": "relationships",
+    "cardCount": 5,
+    "release_date": "2026-04-21"
+  },
+  {
+    "id": "power-dynamics-romance",
+    "title": "연인 사이에도 힘의 균형이 있다",
+    "emoji": "🎭",
+    "category": "relationships",
+    "cardCount": 5,
+    "release_date": "2026-04-21"
+  },
+  {
+    "id": "passion-decline-natural",
+    "title": "설렘이 사라지는 건 자연스러운 일이다",
+    "emoji": "📉",
+    "category": "emotion_awareness",
+    "cardCount": 5,
+    "release_date": "2026-04-21"
   }
 ]
