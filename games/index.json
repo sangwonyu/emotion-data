@@ -556,5 +556,50 @@
     "questionCount": 6,
     "exp": 40,
     "release_date": "2026-04-21"
+  },
+  {
+    "id": "my-money-attitude",
+    "name": "돈을 대하는 나의 마음",
+    "emoji": "💰",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-06-07"
+  },
+  {
+    "id": "my-decision-pursuit",
+    "name": "선택할 때 나는 어디까지 찾아볼까",
+    "emoji": "🧭",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-06-07"
+  },
+  {
+    "id": "my-thinking-appetite",
+    "name": "나는 생각하는 일을 즐기는 사람일까",
+    "emoji": "🧠",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-06-07"
+  },
+  {
+    "id": "my-causality-orientation",
+    "name": "내 행동의 출발점은 어디에 있을까",
+    "emoji": "🕹️",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-06-07"
+  },
+  {
+    "id": "my-chronotype-rhythm",
+    "name": "하루 중 나의 에너지는 언제 깨어날까",
+    "emoji": "🌅",
+    "duration": "5분",
+    "questionCount": 6,
+    "exp": 40,
+    "release_date": "2026-06-07"
   }
 ]

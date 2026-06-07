@@ -1,0 +1,50 @@
+{
+  "id": "behavioral-activation-action-first",
+  "title": "기분이 동기를 기다리지 않습니다, 행동이 먼저입니다",
+  "subtitle": "작은 활동을 먼저 움직여 가라앉은 감정을 끌어올리는 법",
+  "category": "emotion_regulation",
+  "cards": [
+    {
+      "id": "card1",
+      "title": "약을 이긴 '행동'의 힘",
+      "body": "우울할 때 우리는 흔히 '기분이 나아지면 그때 움직이자'라고 생각합니다. 그런데 Dimidjian과 동료들(2006)이 성인 241명을 대상으로 한 무작위 대조 연구는 정반대를 보여줍니다. 약도, 생각을 바꾸는 치료도 아닌, 그저 작은 활동을 계획적으로 늘리는 '행동활성화'가 중증 우울 환자에서 항우울제와 동등한 효과를 냈고, 인지치료보다 우수했습니다. 마음을 먼저 고치지 않아도, 몸을 먼저 움직이는 것만으로 감정이 따라 올라올 수 있다는 뜻입니다. 다만 이 항우울제 동등·인지치료 우월 효과는 중증(고심도) 우울 하위군에서 확인된 것으로, 경증 우울에서는 세 치료 간 차이가 뚜렷하지 않았다는 점도 함께 기억할 필요가 있습니다.",
+      "emoji": "🚶",
+      "bgColor": "#E3F2FD",
+      "textColor": "#1565C0"
+    },
+    {
+      "id": "card2",
+      "title": "기분과 행동의 악순환",
+      "body": "가라앉은 기분은 '하기 싫음'을 만들고, 활동을 줄이면 즐거움과 성취를 느낄 기회 자체가 사라집니다. 그러면 기분은 더 가라앉고, 다시 더 움직이지 않게 되는 악순환에 빠집니다. Lewinsohn의 우울 행동 모델과 Jacobson 등(2001)이 재구성한 BA(행동활성화)의 핵심 원리는 이 고리를 '동기를 키워서'가 아니라 '행동을 먼저 끼워 넣어서' 끊는 데 있습니다. 예를 들어 종일 누워 있던 날, 의욕이 생길 때까지 기다리지 않고 일단 창문을 열고 5분 산책을 나가는 것입니다. 작은 활동이 작은 보상을 만들고, 그 보상이 다음 행동의 연료가 됩니다.",
+      "emoji": "🔄",
+      "bgColor": "#E3F2FD",
+      "textColor": "#1565C0"
+    },
+    {
+      "id": "card3",
+      "title": "회피를 알아차리기",
+      "body": "행동활성화의 또 다른 핵심은 '회피 행동'을 알아차리는 것입니다. 힘들 때 우리는 약속을 미루고, 연락을 피하고, 침대에 머무릅니다. 당장은 편하지만 이런 회피는 우울을 유지시키는 연료가 됩니다. Cuijpers와 동료들(2007)의 메타분석은 16개 연구(총 780명)에서 행동활성화가 통제집단보다 큰 효과(효과크기 0.87)를 냈고, 인지치료 등 다른 심리치료와 최소 동등했음을 확인했습니다. 핵심은 기분이 아니라 '내가 무엇을 회피하고 있는지'를 보고, 가치 있는 활동을 조금씩 되돌리는 것입니다.",
+      "emoji": "🔍",
+      "bgColor": "#E3F2FD",
+      "textColor": "#1565C0"
+    },
+    {
+      "id": "card4",
+      "title": "오늘 당장, 5분짜리 한 걸음",
+      "body": "거창한 계획은 필요 없습니다. 오늘 두 가지만 해보세요.\n\n1) '5분 규칙' 활동 하나: 의욕이 없어도 일단 5분만 한다고 정하세요. 설거지 5분, 바깥 공기 5분, 좋아했던 음악 한 곡. 시작이 가장 어렵지, 5분 뒤엔 더 하고 싶어지는 경우가 많습니다.\n\n2) '기분 말고 일정으로' 정하기: 내일 할 작은 활동 한 가지를 시간까지 적어 두세요(예: 오전 10시 동네 한 바퀴). 기분이 허락할 때가 아니라, 정해둔 시간에 움직이는 것이 행동활성화의 출발점입니다.",
+      "emoji": "✅",
+      "bgColor": "#E3F2FD",
+      "textColor": "#1565C0"
+    },
+    {
+      "id": "card5",
+      "title": "움직임이 먼저, 마음은 따라옵니다",
+      "body": "정리하면, 감정이 동기를 만들어 주기를 기다릴 필요가 없습니다. 작은 활동을 먼저 일정에 끼워 넣고, 회피하던 일을 조금씩 되돌리면 가라앉았던 기분이 그 뒤를 따라 올라옵니다. 연구들이 보여주듯(Dimidjian et al., 2006; Cuijpers et al., 2007), 변화는 '의지'보다 '한 걸음'에서 시작됩니다. 오늘의 5분이 내일의 동기가 됩니다.\n\n이 콘텐츠는 심리학 연구를 바탕으로 한 정보 제공 목적이며, 전문적인 심리 상담이나 치료를 대체하지 않습니다. 지속적인 어려움을 겪고 계시다면 전문가와 상담하시길 권합니다. 정신건강 위기상담 전화: 1577-0199",
+      "emoji": "🌤️",
+      "bgColor": "#E3F2FD",
+      "textColor": "#1565C0"
+    }
+  ],
+  "source": "Dimidjian, S., Hollon, S. D., Dobson, K. S., Schmaling, K. B., Kohlenberg, R. J., Addis, M. E., Gallop, R., McGlinchey, J. B., Markley, D. K., Gollan, J. K., Atkins, D. C., Dunner, D. L., & Jacobson, N. S. (2006). Randomized trial of behavioral activation, cognitive therapy, and antidepressant medication in the acute treatment of adults with major depression. Journal of Consulting and Clinical Psychology, 74(4), 658-670. https://doi.org/10.1037/0022-006X.74.4.658\n\nCuijpers, P., van Straten, A., & Warmerdam, L. (2007). Behavioral activation treatments of depression: A meta-analysis. Clinical Psychology Review, 27(3), 318-326. https://doi.org/10.1016/j.cpr.2006.11.001\n\nJacobson, N. S., Martell, C. R., & Dimidjian, S. (2001). Behavioral activation treatment for depression: Returning to contextual roots. Clinical Psychology: Science and Practice, 8(3), 255-270. https://doi.org/10.1093/clipsy.8.3.255",
+  "release_date": "2026-06-07"
+}

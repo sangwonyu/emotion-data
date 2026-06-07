@@ -814,5 +814,45 @@
     "category": "emotion_awareness",
     "cardCount": 5,
     "release_date": "2026-04-21"
+  },
+  {
+    "id": "emodiversity-emotional-ecosystem",
+    "title": "감정의 다양성이 마음의 면역력입니다",
+    "emoji": "🌈",
+    "category": "emotion_awareness",
+    "cardCount": 5,
+    "release_date": "2026-06-07"
+  },
+  {
+    "id": "precrastination-rush-to-finish",
+    "title": "미루기 반대편의 함정, 서둘러 끝내기",
+    "emoji": "⏩",
+    "category": "everyday_psychology",
+    "cardCount": 5,
+    "release_date": "2026-06-07"
+  },
+  {
+    "id": "sensory-processing-sensitivity",
+    "title": "예민함은 결함이 아니라 기질입니다",
+    "emoji": "🌿",
+    "category": "self_growth",
+    "cardCount": 5,
+    "release_date": "2026-06-07"
+  },
+  {
+    "id": "aesthetic-chills-frisson",
+    "title": "소름이 돋는 순간, 마음이 열리고 있습니다",
+    "emoji": "✨",
+    "category": "wellbeing_resilience",
+    "cardCount": 5,
+    "release_date": "2026-06-07"
+  },
+  {
+    "id": "behavioral-activation-action-first",
+    "title": "기분이 동기를 기다리지 않습니다, 행동이 먼저입니다",
+    "emoji": "🚶",
+    "category": "emotion_regulation",
+    "cardCount": 5,
+    "release_date": "2026-06-07"
   }
 ]

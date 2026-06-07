@@ -1,0 +1,50 @@
+{
+  "id": "aesthetic-chills-frisson",
+  "title": "소름이 돋는 순간, 마음이 열리고 있습니다",
+  "subtitle": "음악과 예술이 주는 전율(frisson)의 심리학",
+  "category": "wellbeing_resilience",
+  "cards": [
+    {
+      "id": "card1",
+      "title": "노래에 소름 돋는 건 '취향'이 아닙니다",
+      "body": "좋아하는 곡의 절정에서 등줄기가 찌릿하고 팔에 소름이 돋는 경험, 바로 '전율(frisson)'입니다.\n\nSalimpoor와 동료들(2011)이 PET 뇌영상으로 확인한 결과, 음악을 들을 때 뇌의 선조체에서 도파민이 실제로 분비됐습니다. 특히 흥미로운 점은, 절정을 '기대하는' 단계와 절정을 실제로 '느끼는' 단계가 서로 다른 신경 경로에서 작동했다는 것입니다. 다시 말해 도파민은 단순한 '쾌감 그 자체'가 아니라, 보상을 예측하고 향해 가는 과정과 절정의 순간 모두에 관여하는 신호였습니다. 소름은 이렇게 보상·동기 회로가 작동하고 있다는 신경학적 흔적인 셈입니다.",
+      "emoji": "✨",
+      "bgColor": "#EDE7F6",
+      "textColor": "#4527A0"
+    },
+    {
+      "id": "card2",
+      "title": "왜 누군가는 소름이 더 잘 돋을까",
+      "body": "같은 곡을 들어도 어떤 사람은 전율하고, 어떤 사람은 무덤덤합니다. 그 차이와 가장 관련이 깊었던 것은 성격이었습니다.\n\nSilvia와 Nusbaum(2011)의 연구에서 Big Five 성격 요인이 전율 경험 차이의 상당 부분을 설명했고, 그중 '경험에 대한 개방성(Openness)'이 가장 강한 예측 변인이었습니다. 새로운 음악을 찾아 듣고, 미술관에서 한 작품 앞에 오래 머물며, 영화의 한 장면에 마음이 흔들리는 사람일수록 전율을 자주 느꼈습니다. 여기서 개방성은 자극에 쉽게 압도되는 '예민함'이나 불안 같은 신경증 성향과는 별개의 특성입니다. 즉 단지 예민해서가 아니라, 새로운 경험에 마음을 여는 성향이 높기 때문에 더 자주 전율하는 것입니다.",
+      "emoji": "🎵",
+      "bgColor": "#EDE7F6",
+      "textColor": "#4527A0"
+    },
+    {
+      "id": "card3",
+      "title": "'상상하는 힘'과 전율은 함께 나타납니다",
+      "body": "개방성은 하나가 아니라 여러 결로 이루어져 있습니다. 어떤 결이 전율과 가장 깊이 연결될까요.\n\nColver와 El-Alayli(2016)는 NEO-PI-R 검사를 받은 100명에게 전율을 유발하는 음악 5곡을 들려주고 자기보고와 피부 전기반응을 함께 측정했습니다. 그 결과 전율은 개방성의 6개 하위요인 중 5개와 정적 상관을 보였고, 특히 '환상(Fantasy)', 즉 상상하고 몰입하는 성향이 가장 강한 상관을 보였습니다. 이는 성격과 전율을 동시에 측정한 상관 연구이므로 어느 쪽이 원인인지를 단정하기는 어렵지만, 적어도 음악을 들으며 머릿속에서 장면을 그리고 이야기에 빠져드는 성향과 더 깊은 전율은 함께 나타나는 경향이 있었습니다.",
+      "emoji": "🌌",
+      "bgColor": "#EDE7F6",
+      "textColor": "#4527A0"
+    },
+    {
+      "id": "card4",
+      "title": "오늘, 전율을 위한 작은 실험",
+      "body": "전율은 마음의 문이 열려 있다는 신호이고, 그 문을 여는 경험을 일상에서 가볍게 시도해 볼 수 있습니다.\n\n1) 오늘 밤, 가장 좋아하는 곡을 이어폰으로 눈을 감고 끝까지 들어보세요. 곡이 그리는 장면을 머릿속에 떠올리며 '몰입'해 보는 것이 핵심입니다. 상상하고 몰입하는 성향은 더 깊은 전율과 함께 나타나는 것으로 보고됐습니다(Colver & El-Alayli, 2016).\n\n2) 평소 듣지 않던 장르나 새로운 예술 작품을 일부러 하나 접해 보세요. 새로운 것에 마음을 여는 개방성은 전율 경험과 관련이 깊었습니다(Silvia & Nusbaum, 2011). 이 제안들은 인과를 입증한 처방이 아니라, 상관 연구에서 드러난 특성을 일상에서 직접 느껴보는 작은 실험에 가깝습니다.",
+      "emoji": "🎧",
+      "bgColor": "#EDE7F6",
+      "textColor": "#4527A0"
+    },
+    {
+      "id": "card5",
+      "title": "소름은 닫힘이 아니라 '열림'입니다",
+      "body": "정리하면, 음악과 예술 앞에서 돋는 소름(전율)은 뇌의 보상·동기 회로에서 도파민이 분비되는 실제 신경 반응이며, 이때 절정을 기대하는 단계와 느끼는 단계가 서로 다른 경로에서 작동합니다(Salimpoor et al., 2011). 또한 새로운 경험에 마음을 여는 '개방성', 특히 상상하고 몰입하는 성향이 높은 사람일수록 전율을 더 자주, 더 깊이 경험하는 경향이 관찰됐습니다(Silvia & Nusbaum, 2011; Colver & El-Alayli, 2016). 다만 이는 상관 연구에 기반한 경향이므로 인과로 단정하긴 어렵습니다. 그럼에도 전율을 느끼는 순간은, 당신의 마음이 세상을 향해 열려 있다는 아름다운 신호로 받아들일 만합니다.\n\n이 콘텐츠는 심리학 연구를 바탕으로 한 정보 제공 목적이며, 전문적인 심리 상담이나 치료를 대체하지 않습니다. 지속적인 어려움을 겪고 계시다면 전문가와 상담하시길 권합니다. 정신건강 위기상담 전화: 1577-0199",
+      "emoji": "💜",
+      "bgColor": "#EDE7F6",
+      "textColor": "#4527A0"
+    }
+  ],
+  "source": "Silvia, P. J., & Nusbaum, E. C. (2011). On personality and piloerection: Individual differences in aesthetic chills and other unusual aesthetic experiences. Psychology of Aesthetics, Creativity, and the Arts, 5(3), 208-214. / Colver, M. C., & El-Alayli, A. (2016). Getting aesthetic chills from music: The connection between openness to experience and frisson. Psychology of Music, 44(3), 413-427. / Salimpoor, V. N., Benovoy, M., Larcher, K., Dagher, A., & Zatorre, R. J. (2011). Anatomically distinct dopamine release during anticipation and experience of peak emotion to music. Nature Neuroscience, 14(2), 257-262.",
+  "release_date": "2026-06-07"
+}

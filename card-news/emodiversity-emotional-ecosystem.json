@@ -1,0 +1,50 @@
+{
+  "id": "emodiversity-emotional-ecosystem",
+  "title": "감정의 다양성이 마음의 면역력입니다",
+  "subtitle": "여러 감정을 골고루 경험하는 것이 건강과 연결되는 이유",
+  "category": "emotion_awareness",
+  "cards": [
+    {
+      "id": "card1",
+      "title": "긍정 감정만 많다고 건강한 게 아닙니다",
+      "body": "37,000명 이상을 조사한 Quoidbach 연구진(2014)은 뜻밖의 사실을 발견했습니다. 긍정 감정이 얼마나 많은지, 부정 감정이 얼마나 적은지보다 '얼마나 다양한 감정을 경험하는가'가 건강을 더 잘 설명했습니다.\n\n여러 감정을 골고루 느끼는 사람일수록 우울 수준이 낮았고, 병원 방문이 적었으며 입원 기간도 짧고 약 복용도 적었습니다. 행복만 가득 채우는 것이 정답이 아니었던 것입니다.",
+      "emoji": "🌈",
+      "bgColor": "#FFF8E1",
+      "textColor": "#E65100"
+    },
+    {
+      "id": "card2",
+      "title": "감정도 생태계처럼 다양할수록 튼튼합니다",
+      "body": "연구진은 이를 '감정 다양성(emodiversity)'이라 부르며 생물다양성에 비유했습니다. 한 가지 작물만 심은 밭은 병충해 한 번에 전멸하지만, 다양한 종이 어우러진 숲은 위협이 와도 쉽게 무너지지 않습니다.\n\n마음도 마찬가지입니다. 슬픔, 설렘, 짜증, 평온, 고마움이 두루 오가는 사람은 스트레스나 분노 같은 특정 감정 하나가 마음 전체를 점령하기 어렵습니다. 감정의 다양성이 일종의 '마음의 면역력'이 되는 셈입니다.",
+      "emoji": "🌳",
+      "bgColor": "#FFF8E1",
+      "textColor": "#E65100"
+    },
+    {
+      "id": "card3",
+      "title": "다양성에는 두 가지 의미가 있습니다",
+      "body": "감정 다양성은 두 축으로 나뉩니다. 첫째는 '종류의 풍부함'으로, 얼마나 여러 가지 감정을 경험하는가입니다. 둘째는 '고른 분포'로, 그 감정들이 어느 하나에 쏠리지 않고 균형 있게 나타나는가입니다.\n\n예를 들어 하루 종일 짜증만 반복되는 사람보다, 아침엔 차분함, 점심엔 즐거움, 저녁엔 약간의 아쉬움처럼 다채로운 결을 느끼는 사람이 더 건강한 감정 생태계를 가진 것입니다. 다만 이는 상관 연구에 기반한 경향성이며, 부정 감정이 과도하거나 한쪽으로 치우치면 오히려 부담이 될 수 있습니다.",
+      "emoji": "🎨",
+      "bgColor": "#FFF8E1",
+      "textColor": "#E65100"
+    },
+    {
+      "id": "card4",
+      "title": "오늘, 감정에 더 정확한 이름을 붙여보세요",
+      "body": "감정 다양성은 더 세밀하게 감정을 구분하는 연습에서 자랍니다. 오늘 하루를 마치며 '좋았다/나빴다' 대신, 구체적인 단어로 적어보세요. '뿌듯했다', '서운했다', '설??다', '아쉬웠다'처럼요.\n\n또 하나, 하루에 느낀 감정을 3가지 이상 떠올려보세요. 긍정이든 부정이든 상관없습니다. 감정에 정확한 이름을 붙이는 '감정 명명하기'는 감정에 압도되지 않게 돕는다고 알려져 있습니다(Lieberman et al., 2007). 다양한 감정을 알아차리는 것만으로도 마음의 생태계는 풍성해집니다.",
+      "emoji": "📝",
+      "bgColor": "#FFF8E1",
+      "textColor": "#E65100"
+    },
+    {
+      "id": "card5",
+      "title": "골고루 느끼는 마음이 더 단단합니다",
+      "body": "행복만 가득 채우는 것이 건강의 비결은 아닙니다. 기쁨도 슬픔도, 설렘도 아쉬움도 골고루 경험하는 다채로운 감정 생태계가 우리를 더 단단하게 만듭니다. 부정 감정을 없애려 애쓰기보다, 다양한 감정을 있는 그대로 알아차려 보세요. 그것이 Quoidbach 연구진(2014)이 말한 '마음의 면역력'입니다.\n\n이 콘텐츠는 심리학 연구를 바탕으로 한 정보 제공 목적이며, 전문적인 심리 상담이나 치료를 대체하지 않습니다. 지속적인 어려움을 겪고 계시다면 전문가와 상담하시길 권합니다. 정신건강 위기상담 전화: 1577-0199",
+      "emoji": "💛",
+      "bgColor": "#FFF8E1",
+      "textColor": "#E65100"
+    }
+  ],
+  "source": "Quoidbach, J., Gruber, J., Mikolajczak, M., Kogan, A., Kotsou, I., & Norton, M. I. (2014). Emodiversity and the emotional ecosystem. Journal of Experimental Psychology: General, 143(6), 2057-2065.\nBenson, L., Ram, N., Almeida, D. M., Zautra, A. J., & Ong, A. D. (2018). Fusing biodiversity metrics into investigations of daily life: Illustrations and recommendations with emodiversity. The Journals of Gerontology: Series B, 73(1), 75-86.\nKashdan, T. B., & Rottenberg, J. (2010). Psychological flexibility as a fundamental aspect of health. Clinical Psychology Review, 30(7), 865-878.\nLieberman, M. D., Eisenberger, N. I., Crockett, M. J., Tom, S. M., Pfeifer, J. H., & Way, B. M. (2007). Putting feelings into words: Affect labeling disrupts amygdala activity in response to affective stimuli. Psychological Science, 18(5), 421-428.",
+  "release_date": "2026-06-07"
+}
