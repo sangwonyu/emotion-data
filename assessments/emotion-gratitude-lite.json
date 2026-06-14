@@ -1,0 +1,113 @@
+{
+  "id": "emotion-gratitude-lite",
+  "locale": "ko-KR",
+  "category": "wellbeing",
+  "version": "1.0.0",
+  "itemsHash": "sha256:a902498e1badb4c88da5513d7e4e1e5535558ebaf62b47f6564b00c4353a90b1",
+  "name": "고마움 알아차림 (감사 라이트)",
+  "emoji": "🙏",
+  "source": {
+    "instrument": "Emoti:on 자기제작 감사-알아차림 라이트 측정 (공개 감사 구성개념 파생, 기존 척도 문항 무복제)",
+    "license": "self_derived",
+    "citation": "구성개념 근거(문항 복제 아님): McCullough, M. E., Emmons, R. A., & Tsang, J. (2002). The grateful disposition: A conceptual and empirical topography. Journal of Personality and Social Psychology, 82(1), 112-127. / Fredrickson, B. L. (2001). The role of positive emotions in positive psychology: The broaden-and-build theory. American Psychologist, 56(3), 218-226.",
+    "recallWindow": "요즘(최근 2주)의 평소 모습 기준"
+  },
+  "responseScale": {
+    "type": "radio",
+    "min": 1,
+    "max": 7,
+    "labels": [
+      "전혀 그렇지 않아요",
+      "그렇지 않아요",
+      "약간 그렇지 않아요",
+      "보통이에요",
+      "약간 그래요",
+      "그래요",
+      "매우 그래요"
+    ]
+  },
+  "questions": [
+    {
+      "id": "G1",
+      "text": "저는 하루를 보내며 사소하지만 좋았던 일들을 곧잘 알아차려요.",
+      "reverse": false
+    },
+    {
+      "id": "G2",
+      "text": "누군가 저에게 친절을 베풀면 마음이 따뜻해지고 고마운 마음이 진하게 들어요.",
+      "reverse": false
+    },
+    {
+      "id": "G3",
+      "text": "건강, 사람들, 평범한 하루처럼 제 삶의 여러 부분에 고마움을 느껴요.",
+      "reverse": false
+    },
+    {
+      "id": "G4",
+      "text": "가족뿐 아니라 제 주변의 많은 사람들에게 고마운 마음을 가져요.",
+      "reverse": false
+    },
+    {
+      "id": "G5",
+      "text": "바쁘더라도 잠시 멈춰서 지금 누리고 있는 것들에 고마움을 느끼곤 해요.",
+      "reverse": false
+    },
+    {
+      "id": "G6",
+      "text": "좋은 일이 생기면 그 고마움을 마음에 담아 두거나 표현하고 싶어져요.",
+      "reverse": false
+    }
+  ],
+  "scoring": {
+    "method": "sum",
+    "reverseItems": [],
+    "dimensions": [
+      {
+        "key": "total",
+        "items": [
+          "G1",
+          "G2",
+          "G3",
+          "G4",
+          "G5",
+          "G6"
+        ]
+      }
+    ],
+    "bands": [
+      {
+        "level": "low",
+        "min": 6,
+        "max": 24,
+        "label": "고마움을 더 알아차려볼 수 있어요"
+      },
+      {
+        "level": "mid",
+        "min": 25,
+        "max": 33,
+        "label": "무난히 알아차리는 편이에요"
+      },
+      {
+        "level": "high",
+        "min": 34,
+        "max": 42,
+        "label": "고마움을 잘 알아차리는 편이에요"
+      }
+    ],
+    "higherIsBetter": true
+  },
+  "results": {
+    "low": {
+      "headline": "고마움의 안테나를 조금 더 켜볼 수 있어요",
+      "body": "요즘은 일상의 좋은 일이나 누군가의 호의가 잘 눈에 들어오지 않을 수 있어요. 자연스러운 일이에요. 하루를 마무리하며 '오늘 좋았던 작은 일 한 가지'를 떠올려 보거나, 받은 친절을 한 번 입 밖으로 표현해 보는 것만으로도 고마움을 알아차리는 감각이 조금씩 자라요. 점수가 좋고 나쁨을 가르는 건 아니니 편하게 시작해 보세요."
+    },
+    "mid": {
+      "headline": "고마움을 무난히 알아차리고 계세요",
+      "body": "일상 속에서 좋은 일과 주변의 호의를 어느 정도 알아차리며 지내고 계세요. 어떤 날은 잘 보이고 어떤 날은 그냥 지나가기도 할 거예요. 마음이 머무는 순간을 한 번 더 음미하거나 고마움을 짧게라도 표현해 보면, 그 감각이 더 또렷해질 수 있어요."
+    },
+    "high": {
+      "headline": "고마움을 잘 알아차리는 편이에요",
+      "body": "일상의 사소한 좋음부터 주변 사람들의 호의까지, 받은 것들을 잘 알아차리고 음미하는 성향이 있으세요. 이런 알아차림은 긍정 정서를 넓혀 주는 좋은 자원이 돼요(확장-구축 이론). 이미 가진 이 감각을 가까운 사람에게 고마움을 전하는 작은 습관으로 이어가 보셔도 좋아요."
+    }
+  }
+}

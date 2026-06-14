@@ -1,0 +1,154 @@
+{
+  "id": "scs-sf",
+  "locale": "ko-KR",
+  "category": "wellbeing",
+  "version": "1.0.0",
+  "itemsHash": "sha256:9723ae6192103d37b53720cb35b367808021b33f99fbf82ff02d1b779554a930",
+  "name": "나를 대하는 마음 (자기자비)",
+  "emoji": "🫶",
+  "source": {
+    "instrument": "Self-Compassion Scale – Short Form (SCS-SF)",
+    "license": "free_attribution",
+    "citation": "Raes, F., Pommier, E., Neff, K. D., & Van Gucht, D. (2011). Construction and factorial validation of a short form of the Self-Compassion Scale. Clinical Psychology & Psychotherapy, 18(3), 250-255.",
+    "recallWindow": "평소 일반적인 모습 기준 (특정 기간 없음)"
+  },
+  "responseScale": {
+    "type": "radio",
+    "min": 1,
+    "max": 5,
+    "labels": [
+      "거의 그렇지 않아요",
+      "가끔 그래요",
+      "때때로 그래요",
+      "자주 그래요",
+      "거의 항상 그래요"
+    ]
+  },
+  "questions": [
+    {
+      "id": "scs_sf_1",
+      "text": "나에게 중요한 일에서 실패하면, 내가 부족하다는 느낌에 온통 사로잡히곤 해요.",
+      "reverse": true
+    },
+    {
+      "id": "scs_sf_2",
+      "text": "내 성격 중 마음에 들지 않는 부분도 이해하고 너그럽게 받아들이려고 해요.",
+      "reverse": false
+    },
+    {
+      "id": "scs_sf_3",
+      "text": "힘든 일이 생기면, 그 상황을 한쪽으로 치우치지 않고 균형 있게 바라보려고 해요.",
+      "reverse": false
+    },
+    {
+      "id": "scs_sf_4",
+      "text": "기분이 가라앉을 때면, 다른 사람들은 다 나보다 행복하게 사는 것 같다는 생각이 들어요.",
+      "reverse": true
+    },
+    {
+      "id": "scs_sf_5",
+      "text": "내 부족한 점도 누구나 겪는 일의 하나라고 바라보려고 해요.",
+      "reverse": false
+    },
+    {
+      "id": "scs_sf_6",
+      "text": "몹시 힘든 시기를 지날 때, 나에게 필요한 보살핌과 다정함을 스스로에게 건네요.",
+      "reverse": false
+    },
+    {
+      "id": "scs_sf_7",
+      "text": "마음이 속상한 일이 있어도, 감정이 한쪽으로 쏠리지 않게 균형을 잡으려고 해요.",
+      "reverse": false
+    },
+    {
+      "id": "scs_sf_8",
+      "text": "나에게 중요한 일에서 실패하면, 그 실패 속에 나 혼자 있는 듯한 외로움을 느끼곤 해요.",
+      "reverse": true
+    },
+    {
+      "id": "scs_sf_9",
+      "text": "기분이 가라앉을 때면, 잘못된 것들에만 자꾸 집착하고 거기에 매달리곤 해요.",
+      "reverse": true
+    },
+    {
+      "id": "scs_sf_10",
+      "text": "내가 어딘가 부족하다고 느껴질 때, 그런 느낌은 대부분의 사람들도 똑같이 겪는다는 걸 떠올리려고 해요.",
+      "reverse": false
+    },
+    {
+      "id": "scs_sf_11",
+      "text": "내 결점이나 부족한 점에 대해 스스로를 못마땅해하고 가혹하게 평가해요.",
+      "reverse": true
+    },
+    {
+      "id": "scs_sf_12",
+      "text": "내 성격 중 마음에 들지 않는 부분에 대해 나 자신을 너그럽게 봐주지 못하고 다그치곤 해요.",
+      "reverse": true
+    }
+  ],
+  "scoring": {
+    "method": "dimension_mean",
+    "reverseItems": [
+      "scs_sf_1",
+      "scs_sf_4",
+      "scs_sf_8",
+      "scs_sf_9",
+      "scs_sf_11",
+      "scs_sf_12"
+    ],
+    "dimensions": [
+      {
+        "key": "total",
+        "items": [
+          "scs_sf_1",
+          "scs_sf_2",
+          "scs_sf_3",
+          "scs_sf_4",
+          "scs_sf_5",
+          "scs_sf_6",
+          "scs_sf_7",
+          "scs_sf_8",
+          "scs_sf_9",
+          "scs_sf_10",
+          "scs_sf_11",
+          "scs_sf_12"
+        ]
+      }
+    ],
+    "bands": [
+      {
+        "level": "low",
+        "min": 1,
+        "max": 2.5,
+        "label": "나에게 조금 더 다정해도 좋아요"
+      },
+      {
+        "level": "moderate",
+        "min": 2.5,
+        "max": 3.5,
+        "label": "상황에 따라 오가는 편"
+      },
+      {
+        "level": "high",
+        "min": 3.5,
+        "max": 5,
+        "label": "나를 따뜻하게 대하는 편"
+      }
+    ],
+    "higherIsBetter": true
+  },
+  "results": {
+    "low": {
+      "headline": "나에게 조금 더 다정해도 좋아요",
+      "body": "지금은 힘들거나 실수했을 때 나 자신에게 꽤 엄격해지는 편인 것 같아요. 많은 분들이 정작 스스로에게는 가장 모진 잣대를 들이대곤 해요. 친한 친구가 같은 일을 겪었다면 어떤 말을 건넬지 떠올려 보고, 그 말을 나에게도 한 번 건네 보세요. 자기자비는 타고나는 게 아니라 연습으로 자라나는 마음이에요. 이 결과는 임상 진단이 아니라, 내가 나를 어떻게 대하는지 돌아보는 자기성찰용 참고 자료예요."
+    },
+    "moderate": {
+      "headline": "상황에 따라 오가는 편",
+      "body": "어떤 날은 나에게 따뜻하게 대하고, 또 어떤 날은 스스로에게 야박해지기도 하는 편이에요. 사실 대부분의 사람들이 이렇게 그날의 상황과 컨디션에 따라 오가곤 해요. 특히 자책이 올라오는 순간을 알아차리는 것만으로도 큰 변화의 시작이 될 수 있어요. 이 결과는 임상 진단이 아니라, 평소 내가 나를 대하는 결을 살펴보는 자기성찰용 참고 자료예요."
+    },
+    "high": {
+      "headline": "나를 따뜻하게 대하는 편",
+      "body": "힘든 순간에도 나 자신을 다그치기보다 다정하게 보살피려는 마음이 잘 자리 잡고 있는 편이에요. 실패나 부족함을 '나만의 문제'가 아니라 누구나 겪는 일로 바라보고, 감정에 휩쓸리기보다 균형을 잡으려는 태도가 엿보여요. 이 따뜻함을 앞으로도 나에게 꾸준히 건네 보세요. 이 결과는 임상 진단이 아니라 자기성찰용 참고 자료예요."
+    }
+  }
+}

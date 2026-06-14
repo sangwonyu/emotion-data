@@ -24,5 +24,57 @@
       8
     ],
     "release_date": "2026-06-14"
+  },
+  {
+    "id": "ipip-optimism",
+    "name": "나의 낙관 시선 살펴보기",
+    "emoji": "🌤️",
+    "category": "personality",
+    "version": "1.0.0",
+    "itemCount": 10,
+    "estimatedMinRange": [
+      5,
+      8
+    ],
+    "release_date": "2026-06-14"
+  },
+  {
+    "id": "ipip-self-esteem",
+    "name": "지금 나를 바라보는 마음",
+    "emoji": "🪞",
+    "category": "personality",
+    "version": "1.0.0",
+    "itemCount": 10,
+    "estimatedMinRange": [
+      5,
+      8
+    ],
+    "release_date": "2026-06-14"
+  },
+  {
+    "id": "scs-sf",
+    "name": "나를 대하는 마음 (자기자비)",
+    "emoji": "🫶",
+    "category": "wellbeing",
+    "version": "1.0.0",
+    "itemCount": 12,
+    "estimatedMinRange": [
+      8,
+      12
+    ],
+    "release_date": "2026-06-14"
+  },
+  {
+    "id": "emotion-gratitude-lite",
+    "name": "고마움 알아차림 (감사 라이트)",
+    "emoji": "🙏",
+    "category": "wellbeing",
+    "version": "1.0.0",
+    "itemCount": 6,
+    "estimatedMinRange": [
+      5,
+      8
+    ],
+    "release_date": "2026-06-14"
   }
 ]

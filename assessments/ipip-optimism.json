@@ -1,0 +1,142 @@
+{
+  "id": "ipip-optimism",
+  "locale": "ko-KR",
+  "category": "personality",
+  "version": "1.0.0",
+  "itemsHash": "sha256:014caa5ce382f2fc2b63cf0d231ec354a64c962fcec333d9c37c428ed8c2a5bc",
+  "name": "나의 낙관 시선 살펴보기",
+  "emoji": "🌤️",
+  "source": {
+    "instrument": "IPIP Optimism scale (10-item IPIP marker for Scheier, Carver, & Bridges LOT)",
+    "license": "public_domain",
+    "citation": "Goldberg, L. R., et al. (2006). The International Personality Item Pool and the future of public-domain personality measures. Journal of Research in Personality, 40(1), 84-96. 문항·채점키 출처: International Personality Item Pool, Single-Construct Scales — Optimism (Scheier, Carver, & Bridges, 1994 marker), 10 items (4 +keyed / 6 -keyed), α=.86 (https://ipip.ori.org/newSingleConstructs.htm; 채점키 https://ipip.ori.org/newSingleConstructsKey.htm).",
+    "recallWindow": "지금 평소의 나를 떠올리며"
+  },
+  "responseScale": {
+    "type": "radio",
+    "min": 1,
+    "max": 5,
+    "labels": [
+      "전혀 그렇지 않다",
+      "그렇지 않은 편이다",
+      "보통이다",
+      "그런 편이다",
+      "매우 그렇다"
+    ]
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "text": "나는 내가 결국 잘 해낼 것이라고 믿는다.",
+      "reverse": false
+    },
+    {
+      "id": "q2",
+      "text": "나는 나 자신이 편안하게 느껴진다.",
+      "reverse": false
+    },
+    {
+      "id": "q3",
+      "text": "나는 마음이 가라앉는 일이 드문 편이다.",
+      "reverse": false
+    },
+    {
+      "id": "q4",
+      "text": "나는 삶의 밝은 면을 바라보는 편이다.",
+      "reverse": false
+    },
+    {
+      "id": "q5",
+      "text": "나는 앞날을 어둡게 내다보는 편이다.",
+      "reverse": true
+    },
+    {
+      "id": "q6",
+      "text": "나는 내 삶에 뚜렷한 방향이 없다고 느낀다.",
+      "reverse": true
+    },
+    {
+      "id": "q7",
+      "text": "나는 나 자신이 마음에 들지 않을 때가 많다.",
+      "reverse": true
+    },
+    {
+      "id": "q8",
+      "text": "나는 마음이 가라앉을 때가 잦다.",
+      "reverse": true
+    },
+    {
+      "id": "q9",
+      "text": "나는 어디서나 어려운 점이 먼저 눈에 들어온다.",
+      "reverse": true
+    },
+    {
+      "id": "q10",
+      "text": "나는 기분이 좋지 않은 때가 자주 있다.",
+      "reverse": true
+    }
+  ],
+  "scoring": {
+    "method": "sum",
+    "reverseItems": [
+      "q5",
+      "q6",
+      "q7",
+      "q8",
+      "q9",
+      "q10"
+    ],
+    "dimensions": [
+      {
+        "key": "total",
+        "items": [
+          "q1",
+          "q2",
+          "q3",
+          "q4",
+          "q5",
+          "q6",
+          "q7",
+          "q8",
+          "q9",
+          "q10"
+        ]
+      }
+    ],
+    "bands": [
+      {
+        "level": "low",
+        "min": 10,
+        "max": 26,
+        "label": "신중하게 살피는 시선이 강한 편"
+      },
+      {
+        "level": "mid",
+        "min": 27,
+        "max": 38,
+        "label": "상황에 따라 균형 잡힌 시선"
+      },
+      {
+        "level": "high",
+        "min": 39,
+        "max": 50,
+        "label": "밝은 면을 잘 보는 시선"
+      }
+    ],
+    "higherIsBetter": true
+  },
+  "results": {
+    "low": {
+      "headline": "한 발 물러서서 신중하게 살피는 시선",
+      "body": "지금의 나는 앞날을 떠올릴 때 밝은 기대보다 살펴봐야 할 점에 먼저 눈이 가는 편이에요. 이건 '문제'가 아니라 위험을 미리 감지하고 현실을 꼼꼼히 보는 강점이기도 해요. 다만 좋은 가능성까지 가려질 만큼 마음이 자주 무겁다면, 작은 일이라도 '예상보다 괜찮았던 순간'을 한 가지씩 기록해 보는 것이 균형을 되찾는 데 도움이 될 수 있어요. 이 결과는 진단이 아니라 참고용 자기이해 자료예요."
+    },
+    "mid": {
+      "headline": "상황에 따라 균형을 잡는 시선",
+      "body": "지금의 나는 밝은 기대와 신중한 살핌 사이에서 상황에 맞게 시선을 조절하는 편이에요. 잘 풀릴 것이라 기대하면서도 어려움도 함께 가늠하는, 유연한 태도라고 볼 수 있어요. 기대가 필요한 순간과 대비가 필요한 순간을 스스로 구분해 보면, 이 균형 감각을 더 든든하게 쓸 수 있어요."
+    },
+    "high": {
+      "headline": "밝은 면을 잘 찾아내는 시선",
+      "body": "지금의 나는 앞날을 떠올릴 때 '잘 풀릴 것'이라는 기대가 자연스럽게 떠오르는 편이에요. 이런 시선은 어려운 일 앞에서도 다시 움직일 힘이 되곤 해요. 밝은 기대를 유지하면서도, 가끔은 현실적인 대비도 함께 챙겨 두면 그 긍정의 힘이 더 단단해질 수 있어요."
+    }
+  }
+}

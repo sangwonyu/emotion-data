@@ -1,0 +1,141 @@
+{
+  "id": "ipip-self-esteem",
+  "locale": "ko-KR",
+  "category": "personality",
+  "version": "1.0.0",
+  "itemsHash": "sha256:8297baf3a1a32c514390b0875664f9aeb40f22d9d640cedac6e1aee0267ccaab",
+  "name": "지금 나를 바라보는 마음",
+  "emoji": "🪞",
+  "source": {
+    "instrument": "IPIP Self-Esteem scale (10-item IPIP marker for the Rosenberg Self-Esteem Scale)",
+    "license": "public_domain",
+    "citation": "Goldberg, L. R., Johnson, J. A., Eber, H. W., Hogan, R., Ashton, M. C., Cloninger, C. R., & Gough, H. G. (2006). The International Personality Item Pool and the future of public-domain personality measures. Journal of Research in Personality, 40(1), 84-96. 문항·채점키 출처: International Personality Item Pool, Single-Construct Scales — Self-Esteem (Rosenberg, 1965 marker), 10 items (5 정채점 + 5 역채점), α=.84 (https://ipip.ori.org/newSingleConstructsKey.htm). 한국어판은 IPIP 공개도메인 영문 원문(IPIP 마커 문항)을 근거로 본 자문에서 신규 번역한 자체 한국어판이며, 출판 검증판이나 원판 Rosenberg(1965) RSES의 복제가 아닙니다.",
+    "recallWindow": "지금 이 순간 / 요즘의 나"
+  },
+  "responseScale": {
+    "type": "radio",
+    "min": 1,
+    "max": 5,
+    "labels": [
+      "전혀 그렇지 않아요",
+      "별로 그렇지 않아요",
+      "보통이에요",
+      "조금 그래요",
+      "매우 그래요"
+    ]
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "text": "저는 제 모습이 편안하게 느껴져요.",
+      "reverse": false
+    },
+    {
+      "id": "q2",
+      "text": "저는 제가 잘 해낼 거라는 믿음이 있어요.",
+      "reverse": false
+    },
+    {
+      "id": "q3",
+      "text": "저는 마음이 가라앉는 날이 드문 편이에요.",
+      "reverse": false
+    },
+    {
+      "id": "q4",
+      "text": "저는 스스로 결정을 내리고 책임지는 걸 편하게 여겨요.",
+      "reverse": false
+    },
+    {
+      "id": "q5",
+      "text": "저는 제가 가진 강점을 잘 알고 있어요.",
+      "reverse": false
+    },
+    {
+      "id": "q6",
+      "text": "가끔은 제 자신이 마음에 들지 않을 때가 있어요.",
+      "reverse": true
+    },
+    {
+      "id": "q7",
+      "text": "저는 제가 다른 사람들보다 부족하게 느껴질 때가 있어요.",
+      "reverse": true
+    },
+    {
+      "id": "q8",
+      "text": "제 삶에 방향이 없는 것처럼 느껴질 때가 있어요.",
+      "reverse": true
+    },
+    {
+      "id": "q9",
+      "text": "제가 맡은 일을 제대로 해낼 수 있을지 의심이 들 때가 있어요.",
+      "reverse": true
+    },
+    {
+      "id": "q10",
+      "text": "여러 일을 감당하기 버겁게 느껴질 때가 있어요.",
+      "reverse": true
+    }
+  ],
+  "scoring": {
+    "method": "sum",
+    "reverseItems": [
+      "q6",
+      "q7",
+      "q8",
+      "q9",
+      "q10"
+    ],
+    "dimensions": [
+      {
+        "key": "total",
+        "items": [
+          "q1",
+          "q2",
+          "q3",
+          "q4",
+          "q5",
+          "q6",
+          "q7",
+          "q8",
+          "q9",
+          "q10"
+        ]
+      }
+    ],
+    "bands": [
+      {
+        "level": "low",
+        "min": 10,
+        "max": 26,
+        "label": "나를 조금 더 다정하게 볼 여지가 있는 때"
+      },
+      {
+        "level": "mid",
+        "min": 27,
+        "max": 38,
+        "label": "대체로 나를 받아들이는 편"
+      },
+      {
+        "level": "high",
+        "min": 39,
+        "max": 50,
+        "label": "나를 따뜻하게 존중하는 편"
+      }
+    ],
+    "higherIsBetter": true
+  },
+  "results": {
+    "low": {
+      "headline": "요즘은 나에게 조금 더 다정해도 좋은 때예요",
+      "body": "지금은 자신을 향한 마음이 조금 엄격하거나 자신 없게 느껴질 수 있어요. 이건 약점이 아니라, 누구에게나 찾아오는 마음의 한 시기예요. 자기존중은 고정된 성격이 아니라 상황과 컨디션에 따라 자연스럽게 오르내리고, 작은 자기돌봄으로도 충분히 달라질 수 있어요. 잘한 일 하나를 떠올려 보거나, 친한 친구에게 건넬 법한 말을 스스로에게 건네보는 것부터 시작해 보세요. 이 결과는 진단이 아니라 지금의 마음을 비춰보는 참고용 거울이에요. 마음이 오래 무겁거나 일상이 힘들게 느껴진다면 가까운 전문가와 이야기 나누는 것도 좋은 선택이에요."
+    },
+    "mid": {
+      "headline": "대체로 나를 있는 그대로 받아들이고 있어요",
+      "body": "지금 당신은 자신의 좋은 점과 부족한 점을 비교적 균형 있게 바라보고 있어요. 어떤 순간엔 흔들리기도 하지만, 전반적으로는 자신을 괜찮은 사람으로 여기는 편이에요. 이 정도의 자기수용은 일상을 지탱하는 든든한 바탕이 돼요. 잘 해낸 순간을 의식적으로 알아차리고, 스스로에게 너그러운 말을 자주 건네면 이 안정감은 더 단단해질 수 있어요. 자기존중은 늘 같은 자리에 머무르지 않고 그날의 컨디션에 따라 달라지니, 점수에 너무 얽매이지 않아도 괜찮아요."
+    },
+    "high": {
+      "headline": "나를 따뜻하게 존중하고 있어요",
+      "body": "지금 당신은 자신을 가치 있고 만족스러운 사람으로 바라보고 있어요. 자신의 강점을 알고, 부족함이 있어도 스스로를 너그럽게 대할 줄 아는 마음이 느껴져요. 이런 따뜻한 자기존중은 어려운 일을 마주할 때 회복하는 힘이 되고, 다른 사람과의 관계에도 좋은 영향을 줘요. 다만 자기존중은 완벽함이 아니라 있는 그대로의 나를 받아들이는 마음이라는 점을 기억해 주세요. 컨디션에 따라 마음은 오르내릴 수 있으니, 흔들리는 날에도 자신에게 건네던 다정함을 잊지 않으면 좋겠어요."
+    }
+  }
+}
