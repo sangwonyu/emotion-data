@@ -1,0 +1,28 @@
+[
+  {
+    "id": "mini-ipip",
+    "name": "나의 성격 다섯 빛깔 살펴보기",
+    "emoji": "🎨",
+    "category": "personality",
+    "version": "1.0.0",
+    "itemCount": 20,
+    "estimatedMinRange": [
+      8,
+      12
+    ],
+    "release_date": "2026-06-14"
+  },
+  {
+    "id": "brs",
+    "name": "다시 일어서는 힘 체크",
+    "emoji": "🌱",
+    "category": "wellbeing",
+    "version": "1.0.0",
+    "itemCount": 6,
+    "estimatedMinRange": [
+      5,
+      8
+    ],
+    "release_date": "2026-06-14"
+  }
+]

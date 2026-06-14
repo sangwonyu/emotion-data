@@ -1,0 +1,216 @@
+{
+  "id": "mini-ipip",
+  "locale": "ko-KR",
+  "category": "personality",
+  "version": "1.0.0",
+  "itemsHash": "sha256:9a39b75bcf0d8a8705f793bc322e2a53ed8e58b4c7f9565b7ad52a7fe51ad01a",
+  "name": "나의 성격 다섯 빛깔 살펴보기",
+  "emoji": "🎨",
+  "source": {
+    "instrument": "Mini-IPIP (20-item International Personality Item Pool Big Five)",
+    "license": "Public domain. IPIP items are explicitly placed in the public domain by the International Personality Item Pool (ipip.ori.org); free for any use including commercial, no permission or fee required. Attribution is recommended but not legally required.",
+    "citation": "Donnellan, M. B., Oswald, F. L., Baird, B. M., & Lucas, R. E. (2006). The Mini-IPIP Scales: Tiny-yet-effective measures of the Big Five factors of personality. Psychological Assessment, 18(2), 192-203. 문항·채점키 출처: International Personality Item Pool (https://ipip.ori.org/MiniIPIPKey.htm).",
+    "recallWindow": "일반적 자기서술(특정 회상 기간 없음) — 평소 자신의 모습을 떠올리며 응답"
+  },
+  "responseScale": {
+    "type": "radio",
+    "min": 1,
+    "max": 5,
+    "labels": [
+      "전혀 그렇지 않아요",
+      "그렇지 않은 편이에요",
+      "보통이에요",
+      "그런 편이에요",
+      "매우 그래요"
+    ]
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "text": "모임이나 파티에서 분위기를 띄우는 편이에요",
+      "reverse": false
+    },
+    {
+      "id": "q2",
+      "text": "모임에서 여러 사람과 두루 이야기를 나누는 편이에요",
+      "reverse": false
+    },
+    {
+      "id": "q3",
+      "text": "말수가 많지 않은 편이에요",
+      "reverse": true
+    },
+    {
+      "id": "q4",
+      "text": "사람들 사이에서 한 발 물러나 조용히 있는 편이에요",
+      "reverse": true
+    },
+    {
+      "id": "q5",
+      "text": "다른 사람의 마음에 공감하는 편이에요",
+      "reverse": false
+    },
+    {
+      "id": "q6",
+      "text": "다른 사람의 감정을 함께 느끼는 편이에요",
+      "reverse": false
+    },
+    {
+      "id": "q7",
+      "text": "다른 사람에게 그다지 관심이 가지 않는 편이에요",
+      "reverse": true
+    },
+    {
+      "id": "q8",
+      "text": "다른 사람의 고민이나 문제에는 별로 마음이 쓰이지 않는 편이에요",
+      "reverse": true
+    },
+    {
+      "id": "q9",
+      "text": "해야 할 일은 미루지 않고 바로 해내는 편이에요",
+      "reverse": false
+    },
+    {
+      "id": "q10",
+      "text": "주변이 잘 정돈되어 있는 것을 좋아해요",
+      "reverse": false
+    },
+    {
+      "id": "q11",
+      "text": "쓰던 물건을 제자리에 두는 것을 자주 잊곤 해요",
+      "reverse": true
+    },
+    {
+      "id": "q12",
+      "text": "일을 어수선하게 벌여 놓는 편이에요",
+      "reverse": true
+    },
+    {
+      "id": "q13",
+      "text": "기분이 자주 오르락내리락하는 편이에요",
+      "reverse": false
+    },
+    {
+      "id": "q14",
+      "text": "마음이 쉽게 흔들리거나 속상해지는 편이에요",
+      "reverse": false
+    },
+    {
+      "id": "q15",
+      "text": "대체로 마음이 느긋하고 편안한 편이에요",
+      "reverse": true
+    },
+    {
+      "id": "q16",
+      "text": "가라앉거나 울적한 기분은 좀처럼 잘 느끼지 않아요",
+      "reverse": true
+    },
+    {
+      "id": "q17",
+      "text": "상상력이 풍부한 편이에요",
+      "reverse": false
+    },
+    {
+      "id": "q18",
+      "text": "추상적인 개념을 이해하는 데 어려움을 느끼는 편이에요",
+      "reverse": true
+    },
+    {
+      "id": "q19",
+      "text": "추상적인 생각이나 아이디어에는 그다지 흥미가 가지 않아요",
+      "reverse": true
+    },
+    {
+      "id": "q20",
+      "text": "상상력이 그리 뛰어난 편은 아니에요",
+      "reverse": true
+    }
+  ],
+  "scoring": {
+    "method": "dimension_mean",
+    "reverseItems": [
+      "q3",
+      "q4",
+      "q7",
+      "q8",
+      "q11",
+      "q12",
+      "q15",
+      "q16",
+      "q18",
+      "q19",
+      "q20"
+    ],
+    "dimensions": [
+      {
+        "key": "extraversion",
+        "items": [
+          "q1",
+          "q2",
+          "q3",
+          "q4"
+        ]
+      },
+      {
+        "key": "agreeableness",
+        "items": [
+          "q5",
+          "q6",
+          "q7",
+          "q8"
+        ]
+      },
+      {
+        "key": "conscientiousness",
+        "items": [
+          "q9",
+          "q10",
+          "q11",
+          "q12"
+        ]
+      },
+      {
+        "key": "emotional_sensitivity",
+        "items": [
+          "q13",
+          "q14",
+          "q15",
+          "q16"
+        ]
+      },
+      {
+        "key": "openness",
+        "items": [
+          "q17",
+          "q18",
+          "q19",
+          "q20"
+        ]
+      }
+    ],
+    "bands": [],
+    "higherIsBetter": false
+  },
+  "results": {
+    "extraversion": {
+      "headline": "외향성: 에너지를 채우는 방식",
+      "body": "외향성은 좋고 나쁨의 문제가 아니라 에너지를 채우는 방식의 차이예요. 점수가 높은 편이라면 사람들과 어울리고 활기를 나누는 데서 에너지를 얻고, 먼저 다가가 분위기를 띄우며 여러 사람과 두루 관계를 맺는 모습이 자연스럽게 드러납니다. 점수가 낮은 편이라면 혼자만의 시간이나 가까운 소수와의 깊은 대화에서 편안함과 에너지를 얻고, 조용히 한 발 물러나 차분히 살피는 신중함과 깊이가 강점이 되곤 해요. 어느 쪽이든 활발함의 많고 적음이 아니라 방식의 차이일 뿐이고, 상황과 시기에 따라 누구나 더 활발해지기도 더 차분해지기도 한답니다."
+    },
+    "agreeableness": {
+      "headline": "친화성: 마음을 나누는 결",
+      "body": "점수가 높은 편이라면 다른 사람의 마음을 잘 헤아리고 감정에 함께 공감하며, 따뜻하게 곁을 내어주고 배려하는 모습이 관계 속에서 잘 드러납니다. 이런 다정함은 신뢰와 협력을 키우는 강점이에요. 동시에 나 자신의 마음을 챙기는 것도 그만큼 소중하다는 걸 잊지 않으면 좋겠어요. 점수가 낮은 편이라면 감정에 휩쓸리기보다 한 발 거리를 두고 상황을 바라보며, 솔직하게 의견을 말하고 자기 기준을 지키는 객관성과 자립이 강점이 될 수 있어요. 공감이 부족하다는 뜻은 아니에요. 마음을 표현하고 거리를 두는 방식이 사람마다 다를 뿐이고, 이 역시 시기와 관계에 따라 달라질 수 있어요."
+    },
+    "conscientiousness": {
+      "headline": "성실성: 일을 풀어가는 리듬",
+      "body": "점수가 높은 편이라면 해야 할 일을 미루지 않고 꼼꼼하게 마무리하며 정돈된 환경을 편안하게 느끼고, 계획적이고 책임감 있게 움직이는 모습이 목표를 이루는 든든한 힘이 됩니다. 다만 스스로에게 너무 엄격해지지 않도록 가끔은 느슨해질 여유도 함께 챙겨 보세요. 점수가 낮은 편이라면 틀에 얽매이기보다 유연하고 즉흥적으로 움직이며, 상황에 맞춰 빠르게 방향을 바꾸고 새로운 흐름에 잘 적응하는 융통성이 강점이 될 수 있어요. 부지런함이 부족한 게 아니라 일을 풀어가는 리듬이 다른 것뿐이에요. 필요할 때 작은 루틴을 만들면 이 성향과도 잘 어울릴 거예요."
+    },
+    "emotional_sensitivity": {
+      "headline": "정서적 민감성: 감정을 느끼는 섬세함",
+      "body": "정서적 민감성은 감정을 얼마나 섬세하게 느끼는지에 대한 결이며, 약점이 아니라 하나의 특성이에요. 점수가 높은 편이라면 감정을 섬세하게 느끼고 마음의 변화를 풍부하게 경험하며, 주변을 깊이 알아차리고 자신과 타인의 감정에 세심하게 반응하는 감수성으로 이어지곤 해요. 다만 마음이 크게 흔들리는 날에는 충분히 쉬고 나에게 맞는 마음 돌봄 방법을 찾아 두면 도움이 됩니다. 점수가 낮은 편이라면 감정의 동요가 크지 않고 대체로 마음이 느긋하고 안정된 편이라, 어려운 상황에서도 차분함을 유지하는 정서적 평온이 강점이 됩니다. 다만 평온하다고 해서 늘 괜찮아야 한다는 뜻은 아니에요. 가끔 마음이 흔들리는 건 자연스러운 일이고, 이 성향도 고정된 것이 아니라 상황에 따라 변할 수 있어요. (참고: 이 결과는 심리 진단이 아니며 참고용입니다.)"
+    },
+    "openness": {
+      "headline": "개방성: 관심이 향하는 곳",
+      "body": "점수가 높은 편이라면 상상력이 풍부하고 새로운 생각이나 추상적인 아이디어를 즐기며, 호기심을 가지고 다양한 관점을 탐색하는 창의성과 열린 사고가 강점으로 이어집니다. 동시에 떠오른 아이디어를 현실에 차분히 안착시키는 균형도 함께 챙기면 더 좋아요. 점수가 낮은 편이라면 추상적인 것보다 익숙하고 구체적이며 실용적인 것에서 편안함을 느끼고, 검증된 방식을 신뢰하고 현실에 발을 단단히 딛는 실용성과 안정감이 강점이 될 수 있어요. 상상력이 부족한 게 아니라 관심이 향하는 곳이 다를 뿐이에요. 마음이 끌리는 새로운 경험이 있다면 가볍게 시도해 봐도 좋고, 이 성향 역시 시기에 따라 달라질 수 있어요."
+    }
+  }
+}
